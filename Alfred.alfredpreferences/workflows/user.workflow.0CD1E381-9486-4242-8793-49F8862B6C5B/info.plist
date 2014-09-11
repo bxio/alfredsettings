@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleid</key>
+	<string>com.danieljchen.sitechecker</string>
+	<key>connections</key>
+	<dict>
+		<key>80CD1656-A744-42BA-B178-04C4201C33B8</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>45EFD7AB-7CA6-4922-AA17-977A37C82F29</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+	</dict>
+	<key>createdby</key>
+	<string>Daniel Chen</string>
+	<key>description</key>
+	<string>Check to see if a site is down or not</string>
+	<key>disabled</key>
+	<false/>
+	<key>name</key>
+	<string>Site Checker</string>
+	<key>objects</key>
+	<array>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>escaping</key>
+				<integer>127</integer>
+				<key>keyword</key>
+				<string>isup</string>
+				<key>runningsubtext</key>
+				<string>Looking for results</string>
+				<key>script</key>
+				<string>./siteChecker.sh {query}</string>
+				<key>subtext</key>
+				<string>Using isup.me</string>
+				<key>title</key>
+				<string>Check to see if site is down...</string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>80CD1656-A744-42BA-B178-04C4201C33B8</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string>com.apple.Safari</string>
+				<key>plusspaces</key>
+				<false/>
+				<key>url</key>
+				<string>{query}</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>45EFD7AB-7CA6-4922-AA17-977A37C82F29</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+	</array>
+	<key>readme</key>
+	<string></string>
+	<key>uidata</key>
+	<dict>
+		<key>45EFD7AB-7CA6-4922-AA17-977A37C82F29</key>
+		<dict>
+			<key>ypos</key>
+			<real>10</real>
+		</dict>
+		<key>80CD1656-A744-42BA-B178-04C4201C33B8</key>
+		<dict>
+			<key>ypos</key>
+			<real>10</real>
+		</dict>
+	</dict>
+	<key>webaddress</key>
+	<string>danieljchen.com</string>
+</dict>
+</plist>

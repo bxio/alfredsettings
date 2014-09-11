@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleid</key>
+	<string>wafflesn.addtopocket</string>
+	<key>category</key>
+	<string>Productivity</string>
+	<key>connections</key>
+	<dict>
+		<key>0BB0014C-F1C3-4DAF-8366-7BFD7E465100</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>86E1F432-A81B-4ACE-944C-579CAE47ECDA</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>565CBD2E-7AAC-43E8-8594-C49CDC305380</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>848DF063-D5FF-40E0-8C59-21C27272F5F3</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>86E1F432-A81B-4ACE-944C-579CAE47ECDA</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>55EB6C3C-210A-424D-ACDC-46C4534664CA</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>FBE71826-5746-4B1D-85F4-692F7B921929</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>565CBD2E-7AAC-43E8-8594-C49CDC305380</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+	</dict>
+	<key>createdby</key>
+	<string>waffles_n</string>
+	<key>description</key>
+	<string>Add URLs to Pocket via the official Mac app</string>
+	<key>disabled</key>
+	<false/>
+	<key>name</key>
+	<string>Add URLs to Pocket</string>
+	<key>objects</key>
+	<array>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>output</key>
+				<integer>0</integer>
+				<key>removeextension</key>
+				<false/>
+				<key>sticky</key>
+				<false/>
+				<key>text</key>
+				<string>{query}</string>
+				<key>title</key>
+				<string>Added to Pocket from clipboard:</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>848DF063-D5FF-40E0-8C59-21C27272F5F3</string>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>escaping</key>
+				<integer>63</integer>
+				<key>normalisation</key>
+				<integer>0</integer>
+				<key>script</key>
+				<string>ADDURL=$(osascript -e "tell application \"Safari\" to return URL of current tab of window 1")
+
+ADDTITLE=$(osascript -e "tell application \"Safari\" to return name of current tab of window 1")
+
+open -g pocket://add?url=$ADDURL
+
+echo $ADDTITLE</string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>86E1F432-A81B-4ACE-944C-579CAE47ECDA</string>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>ap</string>
+				<key>subtext</key>
+				<string>Adds the currently open page in Safari to the Pocket app</string>
+				<key>text</key>
+				<string>Add Safari URL to Pocket</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>0BB0014C-F1C3-4DAF-8366-7BFD7E465100</string>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>escaping</key>
+				<integer>63</integer>
+				<key>normalisation</key>
+				<integer>0</integer>
+				<key>script</key>
+				<string>ADDCLIP=$(osascript -e "get the clipboard")
+
+open -g pocket://add?url=$ADDCLIP
+
+echo $ADDCLIP</string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>565CBD2E-7AAC-43E8-8594-C49CDC305380</string>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>ac</string>
+				<key>subtext</key>
+				<string>Adds the clipboard's contents to your Pocket reading list</string>
+				<key>text</key>
+				<string>Add Copied URL to Pocket</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>FBE71826-5746-4B1D-85F4-692F7B921929</string>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>output</key>
+				<integer>0</integer>
+				<key>removeextension</key>
+				<false/>
+				<key>sticky</key>
+				<false/>
+				<key>text</key>
+				<string>{query}</string>
+				<key>title</key>
+				<string>Added to Pocket:</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>55EB6C3C-210A-424D-ACDC-46C4534664CA</string>
+		</dict>
+	</array>
+	<key>readme</key>
+	<string></string>
+	<key>uidata</key>
+	<dict>
+		<key>0BB0014C-F1C3-4DAF-8366-7BFD7E465100</key>
+		<dict>
+			<key>ypos</key>
+			<real>10</real>
+		</dict>
+		<key>55EB6C3C-210A-424D-ACDC-46C4534664CA</key>
+		<dict>
+			<key>ypos</key>
+			<real>10</real>
+		</dict>
+		<key>565CBD2E-7AAC-43E8-8594-C49CDC305380</key>
+		<dict>
+			<key>ypos</key>
+			<real>130</real>
+		</dict>
+		<key>848DF063-D5FF-40E0-8C59-21C27272F5F3</key>
+		<dict>
+			<key>ypos</key>
+			<real>130</real>
+		</dict>
+		<key>86E1F432-A81B-4ACE-944C-579CAE47ECDA</key>
+		<dict>
+			<key>ypos</key>
+			<real>10</real>
+		</dict>
+		<key>FBE71826-5746-4B1D-85F4-692F7B921929</key>
+		<dict>
+			<key>ypos</key>
+			<real>130</real>
+		</dict>
+	</dict>
+	<key>webaddress</key>
+	<string></string>
+</dict>
+</plist>
