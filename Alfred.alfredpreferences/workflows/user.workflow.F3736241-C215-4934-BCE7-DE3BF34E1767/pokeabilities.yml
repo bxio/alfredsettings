@@ -1,0 +1,3222 @@
+---
+Bulbasaur:
+  Abilities:
+  - Overgrow
+  Hidden: Chlorophyll
+Ivysaur:
+  Abilities:
+  - Overgrow
+  Hidden: Chlorophyll
+Venusaur:
+  Abilities:
+  - Overgrow
+  Hidden: Chlorophyll
+  Mega: Thick Fat
+Charmander:
+  Abilities:
+  - Blaze
+  Hidden: Solar Power
+Charmeleon:
+  Abilities:
+  - Blaze
+  Hidden: Solar Power
+Charizard:
+  Abilities:
+  - Blaze
+  Hidden: Solar Power
+  Mega: Tough Claws
+  Mega Y: Drought
+Squirtle:
+  Abilities:
+  - Torrent
+  Hidden: Rain Dish
+Wartortle:
+  Abilities:
+  - Torrent
+  Hidden: Rain Dish
+Blastoise:
+  Abilities:
+  - Torrent
+  Hidden: Rain Dish
+  Mega: Mega Launcher
+Caterpie:
+  Abilities:
+  - Shield Dust
+  Hidden: Run Away
+Metapod:
+  Abilities:
+  - Shed Skin
+Butterfree:
+  Abilities:
+  - Compoundeyes
+  Hidden: Tinted Lens
+Weedle:
+  Abilities:
+  - Shield Dust
+  Hidden: Run Away
+Kakuna:
+  Abilities:
+  - Shed Skin
+Beedrill:
+  Abilities:
+  - Swarm
+  Hidden: Sniper
+Pidgey:
+  Abilities:
+  - Keen Eye
+  - Tangled Feet
+  Hidden: Big Pecks
+Pidgeotto:
+  Abilities:
+  - Keen Eye
+  - Tangled Feet
+  Hidden: Big Pecks
+Pidgeot:
+  Abilities:
+  - Keen Eye
+  - Tangled Feet
+  Hidden: Big Pecks
+Rattata:
+  Abilities:
+  - Run Away
+  - Guts
+  Hidden: Hustle
+Raticate:
+  Abilities:
+  - Run Away
+  - Guts
+  Hidden: Hustle
+Spearow:
+  Abilities:
+  - Keen Eye
+  Hidden: Sniper
+Fearow:
+  Abilities:
+  - Keen Eye
+  Hidden: Sniper
+Ekans:
+  Abilities:
+  - Intimidate
+  - Shed Skin
+  Hidden: Unnerve
+Arbok:
+  Abilities:
+  - Intimidate
+  - Shed Skin
+  Hidden: Unnerve
+Pikachu:
+  Abilities:
+  - Static
+  Hidden: Lightningrod
+Raichu:
+  Abilities:
+  - Static
+  Hidden: Lightningrod
+Sandshrew:
+  Abilities:
+  - Sand Veil
+  Hidden: Sand Rush
+Sandslash:
+  Abilities:
+  - Sand Veil
+  Hidden: Sand Rush
+Nidoran♀:
+  Abilities:
+  - Poison Point
+  - Rivalry
+  Hidden: Hustle
+Nidorina:
+  Abilities:
+  - Poison Point
+  - Rivalry
+  Hidden: Hustle
+Nidoqueen:
+  Abilities:
+  - Poison Point
+  - Rivalry
+  Hidden: Sheer Force
+Nidoran♂:
+  Abilities:
+  - Poison Point
+  - Rivalry
+  Hidden: Hustle
+Nidorino:
+  Abilities:
+  - Poison Point
+  - Rivalry
+  Hidden: Hustle
+Nidoking:
+  Abilities:
+  - Poison Point
+  - Rivalry
+  Hidden: Sheer Force
+Clefairy:
+  Abilities:
+  - Cute Charm
+  - Magic Guard
+  Hidden: Friend Guard
+Clefable:
+  Abilities:
+  - Cute Charm
+  - Magic Guard
+  Hidden: Unaware
+Vulpix:
+  Abilities:
+  - Flash Fire
+  Hidden: Drought
+Ninetales:
+  Abilities:
+  - Flash Fire
+  Hidden: Drought
+Jigglypuff:
+  Abilities:
+  - Cute Charm
+  - Competitive
+  Hidden: Friend Guard
+Wigglytuff:
+  Abilities:
+  - Cute Charm
+  - Competitive
+  Hidden: Frisk
+Zubat:
+  Abilities:
+  - Inner Focus
+  Hidden: Infiltrator
+Golbat:
+  Abilities:
+  - Inner Focus
+  Hidden: Infiltrator
+Oddish:
+  Abilities:
+  - Chlorophyll
+  Hidden: Run Away
+Gloom:
+  Abilities:
+  - Chlorophyll
+  Hidden: Stench
+Vileplume:
+  Abilities:
+  - Chlorophyll
+  Hidden: Effect Spore
+Paras:
+  Abilities:
+  - Effect Spore
+  - Dry Skin
+  Hidden: Damp
+Parasect:
+  Abilities:
+  - Effect Spore
+  - Dry Skin
+  Hidden: Damp
+Venonat:
+  Abilities:
+  - Compoundeyes
+  - Tinted Lens
+  Hidden: Run Away
+Venomoth:
+  Abilities:
+  - Shield Dust
+  - Tinted Lens
+  Hidden: Wonder Skin
+Diglett:
+  Abilities:
+  - Sand Veil
+  - Arena Trap
+  Hidden: Sand Force
+Dugtrio:
+  Abilities:
+  - Sand Veil
+  - Arena Trap
+  Hidden: Sand Force
+Meowth:
+  Abilities:
+  - Pickup
+  - Technician
+  Hidden: Unnerve
+Persian:
+  Abilities:
+  - Limber
+  - Technician
+  Hidden: Unnerve
+Psyduck:
+  Abilities:
+  - Damp
+  - Cloud Nine
+  Hidden: Swift Swim
+Golduck:
+  Abilities:
+  - Damp
+  - Cloud Nine
+  Hidden: Swift Swim
+Mankey:
+  Abilities:
+  - Vital Spirit
+  - Anger Point
+  Hidden: Defiant
+Primeape:
+  Abilities:
+  - Vital Spirit
+  - Anger Point
+  Hidden: Defiant
+Growlithe:
+  Abilities:
+  - Intimidate
+  - Flash Fire
+  Hidden: Justified
+Arcanine:
+  Abilities:
+  - Intimidate
+  - Flash Fire
+  Hidden: Justified
+Poliwag:
+  Abilities:
+  - Water Absorb
+  - Damp
+  Hidden: Swift Swim
+Poliwhirl:
+  Abilities:
+  - Water Absorb
+  - Damp
+  Hidden: Swift Swim
+Poliwrath:
+  Abilities:
+  - Water Absorb
+  - Damp
+  Hidden: Swift Swim
+Abra:
+  Abilities:
+  - Synchronize
+  - Inner Focus
+  Hidden: Magic Guard
+Kadabra:
+  Abilities:
+  - Synchronize
+  - Inner Focus
+  Hidden: Magic Guard
+Alakazam:
+  Abilities:
+  - Synchronize
+  - Inner Focus
+  Hidden: Magic Guard
+  Mega: Trace
+Machop:
+  Abilities:
+  - Guts
+  - No Guard
+  Hidden: Steadfast
+Machoke:
+  Abilities:
+  - Guts
+  - No Guard
+  Hidden: Steadfast
+Machamp:
+  Abilities:
+  - Guts
+  - No Guard
+  Hidden: Steadfast
+Bellsprout:
+  Abilities:
+  - Chlorophyll
+  Hidden: Gluttony
+Weepinbell:
+  Abilities:
+  - Chlorophyll
+  Hidden: Gluttony
+Victreebel:
+  Abilities:
+  - Chlorophyll
+  Hidden: Gluttony
+Tentacool:
+  Abilities:
+  - Clear Body
+  - Liquid Ooze
+  Hidden: Rain Dish
+Tentacruel:
+  Abilities:
+  - Clear Body
+  - Liquid Ooze
+  Hidden: Rain Dish
+Geodude:
+  Abilities:
+  - Rock Head
+  - Sturdy
+  Hidden: Sand Veil
+Graveler:
+  Abilities:
+  - Rock Head
+  - Sturdy
+  Hidden: Sand Veil
+Golem:
+  Abilities:
+  - Rock Head
+  - Sturdy
+  Hidden: Sand Veil
+Ponyta:
+  Abilities:
+  - Run Away
+  - Flash Fire
+  Hidden: Flame Body
+Rapidash:
+  Abilities:
+  - Run Away
+  - Flash Fire
+  Hidden: Flame Body
+Slowpoke:
+  Abilities:
+  - Oblivious
+  - Own Tempo
+  Hidden: Regenerator
+Slowbro:
+  Abilities:
+  - Oblivious
+  - Own Tempo
+  Hidden: Regenerator
+Magnemite:
+  Abilities:
+  - Magnet Pull
+  - Sturdy
+  Hidden: Analytic
+Magneton:
+  Abilities:
+  - Magnet Pull
+  - Sturdy
+  Hidden: Analytic
+Farfetch'd:
+  Abilities:
+  - Keen Eye
+  - Inner Focus
+  Hidden: Defiant
+Doduo:
+  Abilities:
+  - Run Away
+  - Early Bird
+  Hidden: Tangled Feet
+Dodrio:
+  Abilities:
+  - Run Away
+  - Early Bird
+  Hidden: Tangled Feet
+Seel:
+  Abilities:
+  - Thick Fat
+  - Hydration
+  Hidden: Ice Body
+Dewgong:
+  Abilities:
+  - Thick Fat
+  - Hydration
+  Hidden: Ice Body
+Grimer:
+  Abilities:
+  - Stench
+  - Sticky Hold
+  Hidden: Poison Touch
+Muk:
+  Abilities:
+  - Stench
+  - Sticky Hold
+  Hidden: Poison Touch
+Shellder:
+  Abilities:
+  - Shell Armor
+  - Skill Link
+  Hidden: Overcoat
+Cloyster:
+  Abilities:
+  - Shell Armor
+  - Skill Link
+  Hidden: Overcoat
+Gastly:
+  Abilities:
+  - Levitate
+Haunter:
+  Abilities:
+  - Levitate
+Gengar:
+  Abilities:
+  - Levitate
+  Mega: Shadow Tag
+Onix:
+  Abilities:
+  - Rock Head
+  - Sturdy
+  Hidden: Weak Armor
+Drowzee:
+  Abilities:
+  - Insomnia
+  - Forewarn
+  Hidden: Inner Focus
+Hypno:
+  Abilities:
+  - Insomnia
+  - Forewarn
+  Hidden: Inner Focus
+Krabby:
+  Abilities:
+  - Hyper Cutter
+  - Shell Armor
+  Hidden: Sheer Force
+Kingler:
+  Abilities:
+  - Hyper Cutter
+  - Shell Armor
+  Hidden: Sheer Force
+Voltorb:
+  Abilities:
+  - Soundproof
+  - Static
+  Hidden: Aftermath
+Electrode:
+  Abilities:
+  - Soundproof
+  - Static
+  Hidden: Aftermath
+Exeggcute:
+  Abilities:
+  - Chlorophyll
+  Hidden: Harvest
+Exeggutor:
+  Abilities:
+  - Chlorophyll
+  Hidden: Harvest
+Cubone:
+  Abilities:
+  - Rock Head
+  - Lightningrod
+  Hidden: Battle Armor
+Marowak:
+  Abilities:
+  - Rock Head
+  - Lightningrod
+  Hidden: Battle Armor
+Hitmonlee:
+  Abilities:
+  - Limber
+  - Reckless
+  Hidden: Unburden
+Hitmonchan:
+  Abilities:
+  - Keen Eye
+  - Iron Fist
+  Hidden: Inner Focus
+Lickitung:
+  Abilities:
+  - Own Tempo
+  - Oblivious
+  Hidden: Cloud Nine
+Koffing:
+  Abilities:
+  - Levitate
+Weezing:
+  Abilities:
+  - Levitate
+Rhyhorn:
+  Abilities:
+  - Lightningrod
+  - Rock Head
+  Hidden: Reckless
+Rhydon:
+  Abilities:
+  - Lightningrod
+  - Rock Head
+  Hidden: Reckless
+Chansey:
+  Abilities:
+  - Natural Cure
+  - Serene Grace
+  Hidden: Healer
+Tangela:
+  Abilities:
+  - Chlorophyll
+  - Leaf Guard
+  Hidden: Regenerator
+Kangaskhan:
+  Abilities:
+  - Early Bird
+  - Scrappy
+  Hidden: Inner Focus
+  Mega: Parental Bond
+Horsea:
+  Abilities:
+  - Swift Swim
+  - Sniper
+  Hidden: Damp
+Seadra:
+  Abilities:
+  - Poison Point
+  - Sniper
+  Hidden: Damp
+Goldeen:
+  Abilities:
+  - Swift Swim
+  - Water Veil
+  Hidden: Lightningrod
+Seaking:
+  Abilities:
+  - Swift Swim
+  - Water Veil
+  Hidden: Lightningrod
+Staryu:
+  Abilities:
+  - Illuminate
+  - Natural Cure
+  Hidden: Analytic
+Starmie:
+  Abilities:
+  - Illuminate
+  - Natural Cure
+  Hidden: Analytic
+Mr. Mime:
+  Abilities:
+  - Soundproof
+  - Filter
+  Hidden: Technician
+Scyther:
+  Abilities:
+  - Swarm
+  - Technician
+  Hidden: Steadfast
+Jynx:
+  Abilities:
+  - Oblivious
+  - Forewarn
+  Hidden: Dry Skin
+Electabuzz:
+  Abilities:
+  - Static
+  Hidden: Vital Spirit
+Magmar:
+  Abilities:
+  - Flame Body
+  Hidden: Vital Spirit
+Pinsir:
+  Abilities:
+  - Hyper Cutter
+  - Mold Breaker
+  Hidden: Moxie
+  Mega: Aerilate
+Tauros:
+  Abilities:
+  - Intimidate
+  - Anger Point
+  Hidden: Sheer Force
+Magikarp:
+  Abilities:
+  - Swift Swim
+  Hidden: Rattled
+Gyarados:
+  Abilities:
+  - Intimidate
+  Hidden: Moxie
+  Mega: Mold Breaker
+Lapras:
+  Abilities:
+  - Water Absorb
+  - Shell Armor
+  Hidden: Hydration
+Ditto:
+  Abilities:
+  - Limber
+  Hidden: Imposter
+Eevee:
+  Abilities:
+  - Run Away
+  - Adaptability
+  Hidden: Anticipation
+Vaporeon:
+  Abilities:
+  - Water Absorb
+  Hidden: Hydration
+Jolteon:
+  Abilities:
+  - Volt Absorb
+  Hidden: Quick Feet
+Flareon:
+  Abilities:
+  - Flash Fire
+  Hidden: Guts
+Porygon:
+  Abilities:
+  - Trace
+  - Download
+  Hidden: Analytic
+Omanyte:
+  Abilities:
+  - Swift Swim
+  - Shell Armor
+  Hidden: Weak Armor
+Omastar:
+  Abilities:
+  - Swift Swim
+  - Shell Armor
+  Hidden: Weak Armor
+Kabuto:
+  Abilities:
+  - Swift Swim
+  - Battle Armor
+  Hidden: Weak Armor
+Kabutops:
+  Abilities:
+  - Swift Swim
+  - Battle Armor
+  Hidden: Weak Armor
+Aerodactyl:
+  Abilities:
+  - Rock Head
+  - Pressure
+  Hidden: Unnerve
+  Mega: Tough Claws
+Snorlax:
+  Abilities:
+  - Immunity
+  - Thick Fat
+  Hidden: Gluttony
+Articuno:
+  Abilities:
+  - Pressure
+  Hidden: Snow Cloak
+Zapdos:
+  Abilities:
+  - Pressure
+  Hidden: Static
+Moltres:
+  Abilities:
+  - Pressure
+  Hidden: Flame Body
+Dratini:
+  Abilities:
+  - Shed Skin
+  Hidden: Marvel Scale
+Dragonair:
+  Abilities:
+  - Shed Skin
+  Hidden: Marvel Scale
+Dragonite:
+  Abilities:
+  - Inner Focus
+  Hidden: Multiscale
+Mewtwo:
+  Abilities:
+  - Pressure
+  Hidden: Unnerve
+  Mega: Steadfast
+  Mega Y: Insomnia
+Mew:
+  Abilities:
+  - Synchronize
+Chikorita:
+  Abilities:
+  - Overgrow
+  Hidden: Leaf Guard
+Bayleef:
+  Abilities:
+  - Overgrow
+  Hidden: Leaf Guard
+Meganium:
+  Abilities:
+  - Overgrow
+  Hidden: Leaf Guard
+Cyndaquil:
+  Abilities:
+  - Blaze
+  Hidden: Flash Fire
+Quilava:
+  Abilities:
+  - Blaze
+  Hidden: Flash Fire
+Typhlosion:
+  Abilities:
+  - Blaze
+  Hidden: Flash Fire
+Totodile:
+  Abilities:
+  - Torrent
+  Hidden: Sheer Force
+Croconaw:
+  Abilities:
+  - Torrent
+  Hidden: Sheer Force
+Feraligatr:
+  Abilities:
+  - Torrent
+  Hidden: Sheer Force
+Sentret:
+  Abilities:
+  - Run Away
+  - Keen Eye
+  Hidden: Frisk
+Furret:
+  Abilities:
+  - Run Away
+  - Keen Eye
+  Hidden: Frisk
+Hoothoot:
+  Abilities:
+  - Insomnia
+  - Keen Eye
+  Hidden: Tinted Lens
+Noctowl:
+  Abilities:
+  - Insomnia
+  - Keen Eye
+  Hidden: Tinted Lens
+Ledyba:
+  Abilities:
+  - Swarm
+  - Early Bird
+  Hidden: Rattled
+Ledian:
+  Abilities:
+  - Swarm
+  - Early Bird
+  Hidden: Iron Fist
+Spinarak:
+  Abilities:
+  - Swarm
+  - Insomnia
+  Hidden: Sniper
+Ariados:
+  Abilities:
+  - Swarm
+  - Insomnia
+  Hidden: Sniper
+Crobat:
+  Abilities:
+  - Inner Focus
+  Hidden: Infiltrator
+Chinchou:
+  Abilities:
+  - Volt Absorb
+  - Illuminate
+  Hidden: Water Absorb
+Lanturn:
+  Abilities:
+  - Volt Absorb
+  - Illuminate
+  Hidden: Water Absorb
+Pichu:
+  Abilities:
+  - Static
+  Hidden: Lightningrod
+Cleffa:
+  Abilities:
+  - Cute Charm
+  - Magic Guard
+  Hidden: Friend Guard
+Igglybuff:
+  Abilities:
+  - Cute Charm
+  - Competitive
+  Hidden: Friend Guard
+Togepi:
+  Abilities:
+  - Hustle
+  - Serene Grace
+  Hidden: Super Luck
+Togetic:
+  Abilities:
+  - Hustle
+  - Serene Grace
+  Hidden: Super Luck
+Natu:
+  Abilities:
+  - Synchronize
+  - Early Bird
+  Hidden: Magic Bounce
+Xatu:
+  Abilities:
+  - Synchronize
+  - Early Bird
+  Hidden: Magic Bounce
+Mareep:
+  Abilities:
+  - Static
+  Hidden: Plus
+Flaaffy:
+  Abilities:
+  - Static
+  Hidden: Plus
+Ampharos:
+  Abilities:
+  - Static
+  Hidden: Plus
+  Mega: Mold Breaker
+Bellossom:
+  Abilities:
+  - Chlorophyll
+  Hidden: Healer
+Marill:
+  Abilities:
+  - Thick Fat
+  - Huge Power
+  Hidden: Sap Sipper
+Azumarill:
+  Abilities:
+  - Thick Fat
+  - Huge Power
+  Hidden: Sap Sipper
+Sudowoodo:
+  Abilities:
+  - Sturdy
+  - Rock Head
+  Hidden: Rattled
+Politoed:
+  Abilities:
+  - Water Absorb
+  - Damp
+  Hidden: Drizzle
+Hoppip:
+  Abilities:
+  - Chlorophyll
+  - Leaf Guard
+  Hidden: Infiltrator
+Skiploom:
+  Abilities:
+  - Chlorophyll
+  - Leaf Guard
+  Hidden: Infiltrator
+Jumpluff:
+  Abilities:
+  - Chlorophyll
+  - Leaf Guard
+  Hidden: Infiltrator
+Aipom:
+  Abilities:
+  - Run Away
+  - Pickup
+  Hidden: Skill Link
+Sunkern:
+  Abilities:
+  - Chlorophyll
+  - Solar Power
+  Hidden: Early Bird
+Sunflora:
+  Abilities:
+  - Chlorophyll
+  - Solar Power
+  Hidden: Early Bird
+Yanma:
+  Abilities:
+  - Speed Boost
+  - Compoundeyes
+  Hidden: Frisk
+Wooper:
+  Abilities:
+  - Damp
+  - Water Absorb
+  Hidden: Unaware
+Quagsire:
+  Abilities:
+  - Damp
+  - Water Absorb
+  Hidden: Unaware
+Espeon:
+  Abilities:
+  - Synchronize
+  Hidden: Magic Bounce
+Umbreon:
+  Abilities:
+  - Synchronize
+  Hidden: Inner Focus
+Murkrow:
+  Abilities:
+  - Insomnia
+  - Super Luck
+  Hidden: Prankster
+Slowking:
+  Abilities:
+  - Oblivious
+  - Own Tempo
+  Hidden: Regenerator
+Misdreavus:
+  Abilities:
+  - Levitate
+Unown:
+  Abilities:
+  - Levitate
+Wobbuffet:
+  Abilities:
+  - Shadow Tag
+  Hidden: Telepathy
+Girafarig:
+  Abilities:
+  - Inner Focus
+  - Early Bird
+  Hidden: Sap Sipper
+Pineco:
+  Abilities:
+  - Sturdy
+  Hidden: Overcoat
+Forretress:
+  Abilities:
+  - Sturdy
+  Hidden: Overcoat
+Dunsparce:
+  Abilities:
+  - Serene Grace
+  - Run Away
+  Hidden: Rattled
+Gligar:
+  Abilities:
+  - Hyper Cutter
+  - Sand Veil
+  Hidden: Immunity
+Steelix:
+  Abilities:
+  - Rock Head
+  - Sturdy
+  Hidden: Sheer Force
+Snubbull:
+  Abilities:
+  - Intimidate
+  - Run Away
+  Hidden: Rattled
+Granbull:
+  Abilities:
+  - Intimidate
+  - Quick Feet
+  Hidden: Rattled
+Qwilfish:
+  Abilities:
+  - Poison Point
+  - Swift Swim
+  Hidden: Intimidate
+Scizor:
+  Abilities:
+  - Swarm
+  - Technician
+  Hidden: Light Metal
+  Mega: Technician
+Shuckle:
+  Abilities:
+  - Sturdy
+  - Gluttony
+  Hidden: Contrary
+Heracross:
+  Abilities:
+  - Swarm
+  - Guts
+  Hidden: Moxie
+  Mega: Skill Link
+Sneasel:
+  Abilities:
+  - Inner Focus
+  - Keen Eye
+  Hidden: Pickpocket
+Teddiursa:
+  Abilities:
+  - Pickup
+  - Quick Feet
+  Hidden: Honey Gather
+Ursaring:
+  Abilities:
+  - Guts
+  - Quick Feet
+  Hidden: Unnerve
+Slugma:
+  Abilities:
+  - Magma Armor
+  - Flame Body
+  Hidden: Weak Armor
+Magcargo:
+  Abilities:
+  - Magma Armor
+  - Flame Body
+  Hidden: Weak Armor
+Swinub:
+  Abilities:
+  - Oblivious
+  - Snow Cloak
+  Hidden: Thick Fat
+Piloswine:
+  Abilities:
+  - Oblivious
+  - Snow Cloak
+  Hidden: Thick Fat
+Corsola:
+  Abilities:
+  - Hustle
+  - Natural Cure
+  Hidden: Regenerator
+Remoraid:
+  Abilities:
+  - Hustle
+  - Sniper
+  Hidden: Moody
+Octillery:
+  Abilities:
+  - Suction Cups
+  - Sniper
+  Hidden: Moody
+Delibird:
+  Abilities:
+  - Vital Spirit
+  - Hustle
+  Hidden: Insomnia
+Mantine:
+  Abilities:
+  - Swift Swim
+  - Water Absorb
+  Hidden: Water Veil
+Skarmory:
+  Abilities:
+  - Keen Eye
+  - Sturdy
+  Hidden: Weak Armor
+Houndour:
+  Abilities:
+  - Early Bird
+  - Flash Fire
+  Hidden: Unnerve
+Houndoom:
+  Abilities:
+  - Early Bird
+  - Flash Fire
+  Hidden: Unnerve
+  Mega: Solar Power
+Kingdra:
+  Abilities:
+  - Swift Swim
+  - Sniper
+  Hidden: Damp
+Phanpy:
+  Abilities:
+  - Pickup
+  Hidden: Sand Veil
+Donphan:
+  Abilities:
+  - Sturdy
+  Hidden: Sand Veil
+Porygon2:
+  Abilities:
+  - Trace
+  - Download
+  Hidden: Analytic
+Stantler:
+  Abilities:
+  - Intimidate
+  - Frisk
+  Hidden: Sap Sipper
+Smeargle:
+  Abilities:
+  - Own Tempo
+  - Technician
+  Hidden: Moody
+Tyrogue:
+  Abilities:
+  - Guts
+  - Steadfast
+  Hidden: Vital Spirit
+Hitmontop:
+  Abilities:
+  - Intimidate
+  - Technician
+  Hidden: Steadfast
+Smoochum:
+  Abilities:
+  - Oblivious
+  - Forewarn
+  Hidden: Hydration
+Elekid:
+  Abilities:
+  - Static
+  Hidden: Vital Spirit
+Magby:
+  Abilities:
+  - Flame Body
+  Hidden: Vital Spirit
+Miltank:
+  Abilities:
+  - Thick Fat
+  - Scrappy
+  Hidden: Sap Sipper
+Blissey:
+  Abilities:
+  - Natural Cure
+  - Serene Grace
+  Hidden: Healer
+Raikou:
+  Abilities:
+  - Pressure
+  Hidden: Volt Absorb
+Entei:
+  Abilities:
+  - Pressure
+  Hidden: Flash Fire
+Suicune:
+  Abilities:
+  - Pressure
+  Hidden: Water Absorb
+Larvitar:
+  Abilities:
+  - Guts
+  Hidden: Sand Veil
+Pupitar:
+  Abilities:
+  - Shed Skin
+Tyranitar:
+  Abilities:
+  - Sand Stream
+  Hidden: Unnerve
+  Mega: Sand Stream
+Lugia:
+  Abilities:
+  - Pressure
+  Hidden: Multiscale
+Ho-oh:
+  Abilities:
+  - Pressure
+  Hidden: Regenerator
+Celebi:
+  Abilities:
+  - Natural Cure
+Treecko:
+  Abilities:
+  - Overgrow
+  Hidden: Unburden
+Grovyle:
+  Abilities:
+  - Overgrow
+  Hidden: Unburden
+Sceptile:
+  Abilities:
+  - Overgrow
+  Hidden: Unburden
+Torchic:
+  Abilities:
+  - Blaze
+  Hidden: Speed Boost
+Combusken:
+  Abilities:
+  - Blaze
+  Hidden: Speed Boost
+Blaziken:
+  Abilities:
+  - Blaze
+  Hidden: Speed Boost
+  Mega: Speed Boost
+Mudkip:
+  Abilities:
+  - Torrent
+  Hidden: Damp
+Marshtomp:
+  Abilities:
+  - Torrent
+  Hidden: Damp
+Swampert:
+  Abilities:
+  - Torrent
+  Hidden: Damp
+Poochyena:
+  Abilities:
+  - Run Away
+  - Quick Feet
+  Hidden: Rattled
+Mightyena:
+  Abilities:
+  - Intimidate
+  - Quick Feet
+  Hidden: Moxie
+Zigzagoon:
+  Abilities:
+  - Pickup
+  - Gluttony
+  Hidden: Quick Feet
+Linoone:
+  Abilities:
+  - Pickup
+  - Gluttony
+  Hidden: Quick Feet
+Wurmple:
+  Abilities:
+  - Shield Dust
+  Hidden: Run Away
+Silcoon:
+  Abilities:
+  - Shed Skin
+Beautifly:
+  Abilities:
+  - Swarm
+  Hidden: Rivalry
+Cascoon:
+  Abilities:
+  - Shed Skin
+Dustox:
+  Abilities:
+  - Shield Dust
+  Hidden: Compoundeyes
+Lotad:
+  Abilities:
+  - Swift Swim
+  - Rain Dish
+  Hidden: Own Tempo
+Lombre:
+  Abilities:
+  - Swift Swim
+  - Rain Dish
+  Hidden: Own Tempo
+Ludicolo:
+  Abilities:
+  - Swift Swim
+  - Rain Dish
+  Hidden: Own Tempo
+Seedot:
+  Abilities:
+  - Chlorophyll
+  - Early Bird
+  Hidden: Pickpocket
+Nuzleaf:
+  Abilities:
+  - Chlorophyll
+  - Early Bird
+  Hidden: Pickpocket
+Shiftry:
+  Abilities:
+  - Chlorophyll
+  - Early Bird
+  Hidden: Pickpocket
+Taillow:
+  Abilities:
+  - Guts
+  Hidden: Scrappy
+Swellow:
+  Abilities:
+  - Guts
+  Hidden: Scrappy
+Wingull:
+  Abilities:
+  - Keen Eye
+  Hidden: Rain Dish
+Pelipper:
+  Abilities:
+  - Keen Eye
+  Hidden: Rain Dish
+Ralts:
+  Abilities:
+  - Synchronize
+  - Trace
+  Hidden: Telepathy
+Kirlia:
+  Abilities:
+  - Synchronize
+  - Trace
+  Hidden: Telepathy
+Gardevoir:
+  Abilities:
+  - Synchronize
+  - Trace
+  Hidden: Telepathy
+  Mega: Pixilate
+Surskit:
+  Abilities:
+  - Swift Swim
+  Hidden: Rain Dish
+Masquerain:
+  Abilities:
+  - Intimidate
+  Hidden: Unnerve
+Shroomish:
+  Abilities:
+  - Effect Spore
+  - Poison Heal
+  Hidden: Quick Feet
+Breloom:
+  Abilities:
+  - Effect Spore
+  - Poison Heal
+  Hidden: Technician
+Slakoth:
+  Abilities:
+  - Truant
+Vigoroth:
+  Abilities:
+  - Vital Spirit
+Slaking:
+  Abilities:
+  - Truant
+Nincada:
+  Abilities:
+  - Compoundeyes
+  Hidden: Run Away
+Ninjask:
+  Abilities:
+  - Speed Boost
+  Hidden: Infiltrator
+Shedinja:
+  Abilities:
+  - Wonder Guard
+Whismur:
+  Abilities:
+  - Soundproof
+  Hidden: Rattled
+Loudred:
+  Abilities:
+  - Soundproof
+  Hidden: Scrappy
+Exploud:
+  Abilities:
+  - Soundproof
+  Hidden: Scrappy
+Makuhita:
+  Abilities:
+  - Thick Fat
+  - Guts
+  Hidden: Sheer Force
+Hariyama:
+  Abilities:
+  - Thick Fat
+  - Guts
+  Hidden: Sheer Force
+Azurill:
+  Abilities:
+  - Thick Fat
+  - Huge Power
+  Hidden: Sap Sipper
+Nosepass:
+  Abilities:
+  - Sturdy
+  - Magnet Pull
+  Hidden: Sand Force
+Skitty:
+  Abilities:
+  - Cute Charm
+  - Normalize
+  Hidden: Wonder Skin
+Delcatty:
+  Abilities:
+  - Cute Charm
+  - Normalize
+  Hidden: Wonder Skin
+Sableye:
+  Abilities:
+  - Keen Eye
+  - Stall
+  Hidden: Prankster
+Mawile:
+  Abilities:
+  - Hyper Cutter
+  - Intimidate
+  Hidden: Sheer Force
+  Mega: Huge Power
+Aron:
+  Abilities:
+  - Sturdy
+  - Rock Head
+  Hidden: Heavy Metal
+Lairon:
+  Abilities:
+  - Sturdy
+  - Rock Head
+  Hidden: Heavy Metal
+Aggron:
+  Abilities:
+  - Sturdy
+  - Rock Head
+  Hidden: Heavy Metal
+  Mega: Filter
+Meditite:
+  Abilities:
+  - Pure Power
+  Hidden: Telepathy
+Medicham:
+  Abilities:
+  - Pure Power
+  Hidden: Telepathy
+  Mega: Pure Power
+Electrike:
+  Abilities:
+  - Static
+  - Lightningrod
+  Hidden: Minus
+Manectric:
+  Abilities:
+  - Static
+  - Lightningrod
+  Hidden: Minus
+  Mega: Intimidate
+Plusle:
+  Abilities:
+  - Plus
+  Hidden: Lightningrod
+Minun:
+  Abilities:
+  - Minus
+  Hidden: Volt Absorb
+Volbeat:
+  Abilities:
+  - Illuminate
+  - Swarm
+  Hidden: Prankster
+Illumise:
+  Abilities:
+  - Oblivious
+  - Tinted Lens
+  Hidden: Prankster
+Roselia:
+  Abilities:
+  - Natural Cure
+  - Poison Point
+  Hidden: Leaf Guard
+Gulpin:
+  Abilities:
+  - Liquid Ooze
+  - Sticky Hold
+  Hidden: Gluttony
+Swalot:
+  Abilities:
+  - Liquid Ooze
+  - Sticky Hold
+  Hidden: Gluttony
+Carvanha:
+  Abilities:
+  - Rough Skin
+  Hidden: Speed Boost
+Sharpedo:
+  Abilities:
+  - Rough Skin
+  Hidden: Speed Boost
+Wailmer:
+  Abilities:
+  - Water Veil
+  - Oblivious
+  Hidden: Pressure
+Wailord:
+  Abilities:
+  - Water Veil
+  - Oblivious
+  Hidden: Pressure
+Numel:
+  Abilities:
+  - Oblivious
+  - Simple
+  Hidden: Own Tempo
+Camerupt:
+  Abilities:
+  - Magma Armor
+  - Solid Rock
+  Hidden: Anger Point
+Torkoal:
+  Abilities:
+  - White Smoke
+  Hidden: Shell Armor
+Spoink:
+  Abilities:
+  - Thick Fat
+  - Own Tempo
+  Hidden: Gluttony
+Grumpig:
+  Abilities:
+  - Thick Fat
+  - Own Tempo
+  Hidden: Gluttony
+Spinda:
+  Abilities:
+  - Own Tempo
+  - Tangled Feet
+  Hidden: Contrary
+Trapinch:
+  Abilities:
+  - Hyper Cutter
+  - Arena Trap
+  Hidden: Sheer Force
+Vibrava:
+  Abilities:
+  - Levitate
+Flygon:
+  Abilities:
+  - Levitate
+Cacnea:
+  Abilities:
+  - Sand Veil
+  Hidden: Water Absorb
+Cacturne:
+  Abilities:
+  - Sand Veil
+  Hidden: Water Absorb
+Swablu:
+  Abilities:
+  - Natural Cure
+  Hidden: Cloud Nine
+Altaria:
+  Abilities:
+  - Natural Cure
+  Hidden: Cloud Nine
+Zangoose:
+  Abilities:
+  - Immunity
+  Hidden: Toxic Boost
+Seviper:
+  Abilities:
+  - Shed Skin
+  Hidden: Infiltrator
+Lunatone:
+  Abilities:
+  - Levitate
+Solrock:
+  Abilities:
+  - Levitate
+Barboach:
+  Abilities:
+  - Oblivious
+  - Anticipation
+  Hidden: Hydration
+Whiscash:
+  Abilities:
+  - Oblivious
+  - Anticipation
+  Hidden: Hydration
+Corphish:
+  Abilities:
+  - Hyper Cutter
+  - Shell Armor
+  Hidden: Adaptability
+Crawdaunt:
+  Abilities:
+  - Hyper Cutter
+  - Shell Armor
+  Hidden: Adaptability
+Baltoy:
+  Abilities:
+  - Levitate
+Claydol:
+  Abilities:
+  - Levitate
+Lileep:
+  Abilities:
+  - Suction Cups
+  Hidden: Storm Drain
+Cradily:
+  Abilities:
+  - Suction Cups
+  Hidden: Storm Drain
+Anorith:
+  Abilities:
+  - Battle Armor
+  Hidden: Swift Swim
+Armaldo:
+  Abilities:
+  - Battle Armor
+  Hidden: Swift Swim
+Feebas:
+  Abilities:
+  - Swift Swim
+  - Oblivious
+  Hidden: Adaptability
+Milotic:
+  Abilities:
+  - Marvel Scale
+  - Competitive
+  Hidden: Cute Charm
+Castform:
+  Abilities:
+  - Forecast
+Kecleon:
+  Abilities:
+  - Color Change
+  Hidden: Protean
+Shuppet:
+  Abilities:
+  - Insomnia
+  - Frisk
+  Hidden: Cursed Body
+Banette:
+  Abilities:
+  - Insomnia
+  - Frisk
+  Hidden: Cursed Body
+  Mega: Prankster
+Duskull:
+  Abilities:
+  - Levitate
+  Hidden: Frisk
+Dusclops:
+  Abilities:
+  - Pressure
+  Hidden: Frisk
+Tropius:
+  Abilities:
+  - Chlorophyll
+  - Solar Power
+  Hidden: Harvest
+Chimecho:
+  Abilities:
+  - Levitate
+Absol:
+  Abilities:
+  - Pressure
+  - Super Luck
+  Hidden: Justified
+  Mega: Magic Bounce
+Wynaut:
+  Abilities:
+  - Shadow Tag
+  Hidden: Telepathy
+Snorunt:
+  Abilities:
+  - Inner Focus
+  - Ice Body
+  Hidden: Moody
+Glalie:
+  Abilities:
+  - Inner Focus
+  - Ice Body
+  Hidden: Moody
+Spheal:
+  Abilities:
+  - Thick Fat
+  - Ice Body
+  Hidden: Oblivious
+Sealeo:
+  Abilities:
+  - Thick Fat
+  - Ice Body
+  Hidden: Oblivious
+Walrein:
+  Abilities:
+  - Thick Fat
+  - Ice Body
+  Hidden: Oblivious
+Clamperl:
+  Abilities:
+  - Shell Armor
+  Hidden: Rattled
+Huntail:
+  Abilities:
+  - Swift Swim
+  Hidden: Water Veil
+Gorebyss:
+  Abilities:
+  - Swift Swim
+  Hidden: Hydration
+Relicanth:
+  Abilities:
+  - Swift Swim
+  - Rock Head
+  Hidden: Sturdy
+Luvdisc:
+  Abilities:
+  - Swift Swim
+  Hidden: Hydration
+Bagon:
+  Abilities:
+  - Rock Head
+  Hidden: Sheer Force
+Shelgon:
+  Abilities:
+  - Rock Head
+  Hidden: Overcoat
+Salamence:
+  Abilities:
+  - Intimidate
+  Hidden: Moxie
+Beldum:
+  Abilities:
+  - Clear Body
+  Hidden: Light Metal
+Metang:
+  Abilities:
+  - Clear Body
+  Hidden: Light Metal
+Metagross:
+  Abilities:
+  - Clear Body
+  Hidden: Light Metal
+Regirock:
+  Abilities:
+  - Clear Body
+  Hidden: Sturdy
+Regice:
+  Abilities:
+  - Clear Body
+  Hidden: Ice Body
+Registeel:
+  Abilities:
+  - Clear Body
+  Hidden: Light Metal
+Latias:
+  Abilities:
+  - Levitate
+  Mega: Levitate
+Latios:
+  Abilities:
+  - Levitate
+  Mega: Levitate
+Kyogre:
+  Abilities:
+  - Drizzle
+Groudon:
+  Abilities:
+  - Drought
+Rayquaza:
+  Abilities:
+  - Air Lock
+Jirachi:
+  Abilities:
+  - Serene Grace
+Deoxys:
+  Abilities:
+  - Pressure
+Turtwig:
+  Abilities:
+  - Overgrow
+  Hidden: Shell Armor
+Grotle:
+  Abilities:
+  - Overgrow
+  Hidden: Shell Armor
+Torterra:
+  Abilities:
+  - Overgrow
+  Hidden: Shell Armor
+Chimchar:
+  Abilities:
+  - Blaze
+  Hidden: Iron Fist
+Monferno:
+  Abilities:
+  - Blaze
+  Hidden: Iron Fist
+Infernape:
+  Abilities:
+  - Blaze
+  Hidden: Iron Fist
+Piplup:
+  Abilities:
+  - Torrent
+  Hidden: Defiant
+Prinplup:
+  Abilities:
+  - Torrent
+  Hidden: Defiant
+Empoleon:
+  Abilities:
+  - Torrent
+  Hidden: Defiant
+Starly:
+  Abilities:
+  - Keen Eye
+  Hidden: Reckless
+Staravia:
+  Abilities:
+  - Intimidate
+  Hidden: Reckless
+Staraptor:
+  Abilities:
+  - Intimidate
+  Hidden: Reckless
+Bidoof:
+  Abilities:
+  - Simple
+  - Unaware
+  Hidden: Moody
+Bibarel:
+  Abilities:
+  - Simple
+  - Unaware
+  Hidden: Moody
+Kricketot:
+  Abilities:
+  - Shed Skin
+  Hidden: Run Away
+Kricketune:
+  Abilities:
+  - Swarm
+  Hidden: Technician
+Shinx:
+  Abilities:
+  - Rivalry
+  - Intimidate
+  Hidden: Guts
+Luxio:
+  Abilities:
+  - Rivalry
+  - Intimidate
+  Hidden: Guts
+Luxray:
+  Abilities:
+  - Rivalry
+  - Intimidate
+  Hidden: Guts
+Budew:
+  Abilities:
+  - Natural Cure
+  - Poison Point
+  Hidden: Leaf Guard
+Roserade:
+  Abilities:
+  - Natural Cure
+  - Poison Point
+  Hidden: Technician
+Cranidos:
+  Abilities:
+  - Mold Breaker
+  Hidden: Sheer Force
+Rampardos:
+  Abilities:
+  - Mold Breaker
+  Hidden: Sheer Force
+Shieldon:
+  Abilities:
+  - Sturdy
+  Hidden: Soundproof
+Bastiodon:
+  Abilities:
+  - Sturdy
+  Hidden: Soundproof
+Burmy:
+  Abilities:
+  - Shed Skin
+  Hidden: Overcoat
+Wormadam:
+  Abilities:
+  - Anticipation
+  Hidden: Overcoat
+Mothim:
+  Abilities:
+  - Swarm
+  Hidden: Tinted Lens
+Combee:
+  Abilities:
+  - Honey Gather
+  Hidden: Hustle
+Vespiquen:
+  Abilities:
+  - Pressure
+  Hidden: Unnerve
+Pachirisu:
+  Abilities:
+  - Run Away
+  - Pickup
+  Hidden: Volt Absorb
+Buizel:
+  Abilities:
+  - Swift Swim
+  Hidden: Water Veil
+Floatzel:
+  Abilities:
+  - Swift Swim
+  Hidden: Water Veil
+Cherubi:
+  Abilities:
+  - Chlorophyll
+Cherrim:
+  Abilities:
+  - Flower Gift
+Shellos:
+  Abilities:
+  - Sticky Hold
+  - Storm Drain
+  Hidden: Sand Force
+Gastrodon:
+  Abilities:
+  - Sticky Hold
+  - Storm Drain
+  Hidden: Sand Force
+Ambipom:
+  Abilities:
+  - Technician
+  - Pickup
+  Hidden: Skill Link
+Drifloon:
+  Abilities:
+  - Aftermath
+  - Unburden
+  Hidden: Flare Boost
+Drifblim:
+  Abilities:
+  - Aftermath
+  - Unburden
+  Hidden: Flare Boost
+Buneary:
+  Abilities:
+  - Run Away
+  - Klutz
+  Hidden: Limber
+Lopunny:
+  Abilities:
+  - Cute Charm
+  - Klutz
+  Hidden: Limber
+Mismagius:
+  Abilities:
+  - Levitate
+Honchkrow:
+  Abilities:
+  - Insomnia
+  - Super Luck
+  Hidden: Moxie
+Glameow:
+  Abilities:
+  - Limber
+  - Own Tempo
+  Hidden: Keen Eye
+Purugly:
+  Abilities:
+  - Thick Fat
+  - Own Tempo
+  Hidden: Defiant
+Chingling:
+  Abilities:
+  - Levitate
+Stunky:
+  Abilities:
+  - Stench
+  - Aftermath
+  Hidden: Keen Eye
+Skuntank:
+  Abilities:
+  - Stench
+  - Aftermath
+  Hidden: Keen Eye
+Bronzor:
+  Abilities:
+  - Levitate
+  - Heatproof
+  Hidden: Heavy Metal
+Bronzong:
+  Abilities:
+  - Levitate
+  - Heatproof
+  Hidden: Heavy Metal
+Bonsly:
+  Abilities:
+  - Sturdy
+  - Rock Head
+  Hidden: Rattled
+Mime Jr.:
+  Abilities:
+  - Soundproof
+  - Filter
+  Hidden: Technician
+Happiny:
+  Abilities:
+  - Natural Cure
+  - Serene Grace
+  Hidden: Friend Guard
+Chatot:
+  Abilities:
+  - Keen Eye
+  - Tangled Feet
+  Hidden: Big Pecks
+Spiritomb:
+  Abilities:
+  - Pressure
+  Hidden: Infiltrator
+Gible:
+  Abilities:
+  - Sand Veil
+  Hidden: Rough Skin
+Gabite:
+  Abilities:
+  - Sand Veil
+  Hidden: Rough Skin
+Garchomp:
+  Abilities:
+  - Sand Veil
+  Hidden: Rough Skin
+  Mega: Sand Force
+Munchlax:
+  Abilities:
+  - Pickup
+  - Thick Fat
+  Hidden: Gluttony
+Riolu:
+  Abilities:
+  - Steadfast
+  - Inner Focus
+  Hidden: Prankster
+Lucario:
+  Abilities:
+  - Steadfast
+  - Inner Focus
+  Hidden: Justified
+  Mega: Adaptability
+Hippopotas:
+  Abilities:
+  - Sand Stream
+  Hidden: Sand Force
+Hippowdon:
+  Abilities:
+  - Sand Stream
+  Hidden: Sand Force
+Skorupi:
+  Abilities:
+  - Battle Armor
+  - Sniper
+  Hidden: Keen Eye
+Drapion:
+  Abilities:
+  - Battle Armor
+  - Sniper
+  Hidden: Keen Eye
+Croagunk:
+  Abilities:
+  - Anticipation
+  - Dry Skin
+  Hidden: Poison Touch
+Toxicroak:
+  Abilities:
+  - Anticipation
+  - Dry Skin
+  Hidden: Poison Touch
+Carnivine:
+  Abilities:
+  - Levitate
+Finneon:
+  Abilities:
+  - Swift Swim
+  - Storm Drain
+  Hidden: Water Veil
+Lumineon:
+  Abilities:
+  - Swift Swim
+  - Storm Drain
+  Hidden: Water Veil
+Mantyke:
+  Abilities:
+  - Swift Swim
+  - Water Absorb
+  Hidden: Water Veil
+Snover:
+  Abilities:
+  - Snow Warning
+  Hidden: Soundproof
+Abomasnow:
+  Abilities:
+  - Snow Warning
+  Hidden: Soundproof
+  Mega: Snow Warning
+Weavile:
+  Abilities:
+  - Pressure
+  Hidden: Pickpocket
+Magnezone:
+  Abilities:
+  - Magnet Pull
+  - Sturdy
+  Hidden: Analytic
+Lickilicky:
+  Abilities:
+  - Own Tempo
+  - Oblivious
+  Hidden: Cloud Nine
+Rhyperior:
+  Abilities:
+  - Lightningrod
+  - Solid Rock
+  Hidden: Reckless
+Tangrowth:
+  Abilities:
+  - Chlorophyll
+  - Leaf Guard
+  Hidden: Regenerator
+Electivire:
+  Abilities:
+  - Motor Drive
+  Hidden: Vital Spirit
+Magmortar:
+  Abilities:
+  - Flame Body
+  Hidden: Vital Spirit
+Togekiss:
+  Abilities:
+  - Hustle
+  - Serene Grace
+  Hidden: Super Luck
+Yanmega:
+  Abilities:
+  - Speed Boost
+  - Tinted Lens
+  Hidden: Frisk
+Leafeon:
+  Abilities:
+  - Leaf Guard
+  Hidden: Chlorophyll
+Glaceon:
+  Abilities:
+  - Snow Cloak
+  Hidden: Ice Body
+Gliscor:
+  Abilities:
+  - Hyper Cutter
+  - Sand Veil
+  Hidden: Poison Heal
+Mamoswine:
+  Abilities:
+  - Oblivious
+  - Snow Cloak
+  Hidden: Thick Fat
+Porygon-Z:
+  Abilities:
+  - Adaptability
+  - Download
+  Hidden: Analytic
+Gallade:
+  Abilities:
+  - Steadfast
+  Hidden: Justified
+Probopass:
+  Abilities:
+  - Sturdy
+  - Magnet Pull
+  Hidden: Sand Force
+Dusknoir:
+  Abilities:
+  - Pressure
+  Hidden: Frisk
+Froslass:
+  Abilities:
+  - Snow Cloak
+  Hidden: Cursed Body
+Rotom:
+  Abilities:
+  - Levitate
+Uxie:
+  Abilities:
+  - Levitate
+Mesprit:
+  Abilities:
+  - Levitate
+Azelf:
+  Abilities:
+  - Levitate
+Dialga:
+  Abilities:
+  - Pressure
+  Hidden: Telepathy
+Palkia:
+  Abilities:
+  - Pressure
+  Hidden: Telepathy
+Heatran:
+  Abilities:
+  - Flash Fire
+  Hidden: Flame Body
+Regigigas:
+  Abilities:
+  - Slow Start
+Giratina:
+  Abilities:
+  - Levitate (Origin Forme)
+  - Pressure (Altered Forme)
+  Hidden: Telepathy (Altered Forme)
+Cresselia:
+  Abilities:
+  - Levitate
+Phione:
+  Abilities:
+  - Hydration
+Manaphy:
+  Abilities:
+  - Hydration
+Darkrai:
+  Abilities:
+  - Bad Dreams
+Shaymin:
+  Abilities:
+  - Natural Cure (Land Forme)
+  - Serene Grace (Sky Forme)
+Arceus:
+  Abilities:
+  - Multitype
+Victini:
+  Abilities:
+  - Victory Star
+Snivy:
+  Abilities:
+  - Overgrow
+  Hidden: Contrary
+Servine:
+  Abilities:
+  - Overgrow
+  Hidden: Contrary
+Serperior:
+  Abilities:
+  - Overgrow
+  Hidden: Contrary
+Tepig:
+  Abilities:
+  - Blaze
+  Hidden: Thick Fat
+Pignite:
+  Abilities:
+  - Blaze
+  Hidden: Thick Fat
+Emboar:
+  Abilities:
+  - Blaze
+  Hidden: Reckless
+Oshawott:
+  Abilities:
+  - Torrent
+  Hidden: Shell Armor
+Dewott:
+  Abilities:
+  - Torrent
+  Hidden: Shell Armor
+Samurott:
+  Abilities:
+  - Torrent
+  Hidden: Shell Armor
+Patrat:
+  Abilities:
+  - Run Away
+  - Keen Eye
+  Hidden: Analytic
+Watchog:
+  Abilities:
+  - Illuminate
+  - Keen Eye
+  Hidden: Analytic
+Lillipup:
+  Abilities:
+  - Vital Spirit
+  - Pickup
+  Hidden: Run Away
+Herdier:
+  Abilities:
+  - Intimidate
+  - Sand Rush
+  Hidden: Scrappy
+Stoutland:
+  Abilities:
+  - Intimidate
+  - Sand Rush
+  Hidden: Scrappy
+Purrloin:
+  Abilities:
+  - Limber
+  - Unburden
+  Hidden: Prankster
+Liepard:
+  Abilities:
+  - Limber
+  - Unburden
+  Hidden: Prankster
+Pansage:
+  Abilities:
+  - Gluttony
+  Hidden: Overgrow
+Simisage:
+  Abilities:
+  - Gluttony
+  Hidden: Overgrow
+Pansear:
+  Abilities:
+  - Gluttony
+  Hidden: Blaze
+Simisear:
+  Abilities:
+  - Gluttony
+  Hidden: Blaze
+Panpour:
+  Abilities:
+  - Gluttony
+  Hidden: Torrent
+Simipour:
+  Abilities:
+  - Gluttony
+  Hidden: Torrent
+Munna:
+  Abilities:
+  - Forewarn
+  - Synchronize
+  Hidden: Telepathy
+Musharna:
+  Abilities:
+  - Forewarn
+  - Synchronize
+  Hidden: Telepathy
+Pidove:
+  Abilities:
+  - Big Pecks
+  - Super Luck
+  Hidden: Rivalry
+Tranquill:
+  Abilities:
+  - Big Pecks
+  - Super Luck
+  Hidden: Rivalry
+Unfezant:
+  Abilities:
+  - Big Pecks
+  - Super Luck
+  Hidden: Rivalry
+Blitzle:
+  Abilities:
+  - Lightningrod
+  - Motor Drive
+  Hidden: Sap Sipper
+Zebstrika:
+  Abilities:
+  - Lightningrod
+  - Motor Drive
+  Hidden: Sap Sipper
+Roggenrola:
+  Abilities:
+  - Sturdy
+  Hidden: Sand Force
+Boldore:
+  Abilities:
+  - Sturdy
+  Hidden: Sand Force
+Gigalith:
+  Abilities:
+  - Sturdy
+  Hidden: Sand Force
+Woobat:
+  Abilities:
+  - Unaware
+  - Klutz
+  Hidden: Simple
+Swoobat:
+  Abilities:
+  - Unaware
+  - Klutz
+  Hidden: Simple
+Drilbur:
+  Abilities:
+  - Sand Rush
+  - Sand Force
+  Hidden: Mold Breaker
+Excadrill:
+  Abilities:
+  - Sand Rush
+  - Sand Force
+  Hidden: Mold Breaker
+Audino:
+  Abilities:
+  - Healer
+  - Regenerator
+  Hidden: Klutz
+Timburr:
+  Abilities:
+  - Guts
+  - Sheer Force
+  Hidden: Iron Fist
+Gurdurr:
+  Abilities:
+  - Guts
+  - Sheer Force
+  Hidden: Iron Fist
+Conkeldurr:
+  Abilities:
+  - Guts
+  - Sheer Force
+  Hidden: Iron Fist
+Tympole:
+  Abilities:
+  - Swift Swim
+  - Hydration
+  Hidden: Water Absorb
+Palpitoad:
+  Abilities:
+  - Swift Swim
+  - Hydration
+  Hidden: Water Absorb
+Seismitoad:
+  Abilities:
+  - Swift Swim
+  - Poison Touch
+  Hidden: Water Absorb
+Throh:
+  Abilities:
+  - Guts
+  - Inner Focus
+  Hidden: Mold Breaker
+Sawk:
+  Abilities:
+  - Sturdy
+  - Inner Focus
+  Hidden: Mold Breaker
+Sewaddle:
+  Abilities:
+  - Swarm
+  - Chlorophyll
+  Hidden: Overcoat
+Swadloon:
+  Abilities:
+  - Leaf Guard
+  - Chlorophyll
+  Hidden: Overcoat
+Leavanny:
+  Abilities:
+  - Swarm
+  - Chlorophyll
+  Hidden: Overcoat
+Venipede:
+  Abilities:
+  - Poison Point
+  - Swarm
+  Hidden: Speed Boost
+Whirlipede:
+  Abilities:
+  - Poison Point
+  - Swarm
+  Hidden: Speed Boost
+Scolipede:
+  Abilities:
+  - Poison Point
+  - Swarm
+  Hidden: Speed Boost
+Cottonee:
+  Abilities:
+  - Prankster
+  - Infiltrator
+  Hidden: Chlorophyll
+Whimsicott:
+  Abilities:
+  - Prankster
+  - Infiltrator
+  Hidden: Chlorophyll
+Petilil:
+  Abilities:
+  - Chlorophyll
+  - Own Tempo
+  Hidden: Leaf Guard
+Lilligant:
+  Abilities:
+  - Chlorophyll
+  - Own Tempo
+  Hidden: Leaf Guard
+Basculin:
+  Abilities:
+  - Reckless (Red-Striped)
+  - Rock Head (Blue-Striped)
+  - Adaptability (Both Forms)
+  Hidden: Mold Breaker
+Sandile:
+  Abilities:
+  - Intimidate
+  - Moxie
+  Hidden: Anger Point
+Krokorok:
+  Abilities:
+  - Intimidate
+  - Moxie
+  Hidden: Anger Point
+Krookodile:
+  Abilities:
+  - Intimidate
+  - Moxie
+  Hidden: Anger Point
+Darumaka:
+  Abilities:
+  - Hustle
+  Hidden: Inner Focus
+Darmanitan:
+  Abilities:
+  - Sheer Force
+  Hidden: Zen Mode
+Maractus:
+  Abilities:
+  - Water Absorb
+  - Chlorophyll
+  Hidden: Storm Drain
+Dwebble:
+  Abilities:
+  - Sturdy
+  - Shell Armor
+  Hidden: Weak Armor
+Crustle:
+  Abilities:
+  - Sturdy
+  - Shell Armor
+  Hidden: Weak Armor
+Scraggy:
+  Abilities:
+  - Shed Skin
+  - Moxie
+  Hidden: Intimidate
+Scrafty:
+  Abilities:
+  - Shed Skin
+  - Moxie
+  Hidden: Intimidate
+Sigilyph:
+  Abilities:
+  - Wonder Skin
+  - Magic Guard
+  Hidden: Tinted Lens
+Yamask:
+  Abilities:
+  - Mummy
+Cofagrigus:
+  Abilities:
+  - Mummy
+Tirtouga:
+  Abilities:
+  - Solid Rock
+  - Sturdy
+  Hidden: Swift Swim
+Carracosta:
+  Abilities:
+  - Solid Rock
+  - Sturdy
+  Hidden: Swift Swim
+Archen:
+  Abilities:
+  - Defeatist
+Archeops:
+  Abilities:
+  - Defeatist
+Trubbish:
+  Abilities:
+  - Stench
+  - Sticky Hold
+  Hidden: Aftermath
+Garbodor:
+  Abilities:
+  - Stench
+  - Weak Armor
+  Hidden: Aftermath
+Zorua:
+  Abilities:
+  - Illusion
+Zoroark:
+  Abilities:
+  - Illusion
+Minccino:
+  Abilities:
+  - Cute Charm
+  - Technician
+  Hidden: Skill Link
+Cinccino:
+  Abilities:
+  - Cute Charm
+  - Technician
+  Hidden: Skill Link
+Gothita:
+  Abilities:
+  - Frisk
+  - Competitive
+  Hidden: Shadow Tag
+Gothorita:
+  Abilities:
+  - Frisk
+  - Competitive
+  Hidden: Shadow Tag
+Gothitelle:
+  Abilities:
+  - Frisk
+  - Competitive
+  Hidden: Shadow Tag
+Solosis:
+  Abilities:
+  - Overcoat
+  - Magic Guard
+  Hidden: Regenerator
+Duosion:
+  Abilities:
+  - Overcoat
+  - Magic Guard
+  Hidden: Regenerator
+Reuniclus:
+  Abilities:
+  - Overcoat
+  - Magic Guard
+  Hidden: Regenerator
+Ducklett:
+  Abilities:
+  - Keen Eye
+  - Big Pecks
+  Hidden: Hydration
+Swanna:
+  Abilities:
+  - Keen Eye
+  - Big Pecks
+  Hidden: Hydration
+Vanillite:
+  Abilities:
+  - Ice Body
+  Hidden: Weak Armor
+Vanillish:
+  Abilities:
+  - Ice Body
+  Hidden: Weak Armor
+Vanilluxe:
+  Abilities:
+  - Ice Body
+  Hidden: Weak Armor
+Deerling:
+  Abilities:
+  - Chlorophyll
+  - Sap Sipper
+  Hidden: Serene Grace
+Sawsbuck:
+  Abilities:
+  - Chlorophyll
+  - Sap Sipper
+  Hidden: Serene Grace
+Emolga:
+  Abilities:
+  - Static
+  Hidden: Motor Drive
+Karrablast:
+  Abilities:
+  - Swarm
+  - Shed Skin
+  Hidden: No Guard
+Escavalier:
+  Abilities:
+  - Swarm
+  - Shell Armor
+  Hidden: Overcoat
+Foongus:
+  Abilities:
+  - Effect Spore
+  Hidden: Regenerator
+Amoonguss:
+  Abilities:
+  - Effect Spore
+  Hidden: Regenerator
+Frillish:
+  Abilities:
+  - Water Absorb
+  - Cursed Body
+  Hidden: Damp
+Jellicent:
+  Abilities:
+  - Water Absorb
+  - Cursed Body
+  Hidden: Damp
+Alomomola:
+  Abilities:
+  - Healer
+  - Hydration
+  Hidden: Regenerator
+Joltik:
+  Abilities:
+  - Compoundeyes
+  - Unnerve
+  Hidden: Swarm
+Galvantula:
+  Abilities:
+  - Compoundeyes
+  - Unnerve
+  Hidden: Swarm
+Ferroseed:
+  Abilities:
+  - Iron Barbs
+Ferrothorn:
+  Abilities:
+  - Iron Barbs
+  Hidden: Anticipation
+Klink:
+  Abilities:
+  - Plus
+  - Minus
+  Hidden: Clear Body
+Klang:
+  Abilities:
+  - Plus
+  - Minus
+  Hidden: Clear Body
+Klinklang:
+  Abilities:
+  - Plus
+  - Minus
+  Hidden: Clear Body
+Tynamo:
+  Abilities:
+  - Levitate
+Eelektrik:
+  Abilities:
+  - Levitate
+Eelektross:
+  Abilities:
+  - Levitate
+Elgyem:
+  Abilities:
+  - Telepathy
+  - Synchronize
+  Hidden: Analytic
+Beheeyem:
+  Abilities:
+  - Telepathy
+  - Synchronize
+  Hidden: Analytic
+Litwick:
+  Abilities:
+  - Flash Fire
+  - Flame Body
+  Hidden: Infiltrator
+Lampent:
+  Abilities:
+  - Flash Fire
+  - Flame Body
+  Hidden: Infiltrator
+Chandelure:
+  Abilities:
+  - Flash Fire
+  - Flame Body
+  Hidden: Infiltrator
+Axew:
+  Abilities:
+  - Rivalry
+  - Mold Breaker
+  Hidden: Unnerve
+Fraxure:
+  Abilities:
+  - Rivalry
+  - Mold Breaker
+  Hidden: Unnerve
+Haxorus:
+  Abilities:
+  - Rivalry
+  - Mold Breaker
+  Hidden: Unnerve
+Cubchoo:
+  Abilities:
+  - Snow Cloak
+  Hidden: Rattled
+Beartic:
+  Abilities:
+  - Snow Cloak
+  Hidden: Swift Swim
+Cryogonal:
+  Abilities:
+  - Levitate
+Shelmet:
+  Abilities:
+  - Hydration
+  - Shell Armor
+  Hidden: Overcoat
+Accelgor:
+  Abilities:
+  - Hydration
+  - Sticky Hold
+  Hidden: Unburden
+Stunfisk:
+  Abilities:
+  - Static
+  - Limber
+  Hidden: Sand Veil
+Mienfoo:
+  Abilities:
+  - Inner Focus
+  - Regenerator
+  Hidden: Reckless
+Mienshao:
+  Abilities:
+  - Inner Focus
+  - Regenerator
+  Hidden: Reckless
+Druddigon:
+  Abilities:
+  - Rough Skin
+  - Sheer Force
+  Hidden: Mold Breaker
+Golett:
+  Abilities:
+  - Iron Fist
+  - Klutz
+  Hidden: No Guard
+Golurk:
+  Abilities:
+  - Iron Fist
+  - Klutz
+  Hidden: No Guard
+Pawniard:
+  Abilities:
+  - Defiant
+  - Inner Focus
+  Hidden: Pressure
+Bisharp:
+  Abilities:
+  - Defiant
+  - Inner Focus
+  Hidden: Pressure
+Bouffalant:
+  Abilities:
+  - Reckless
+  - Sap Sipper
+  Hidden: Soundproof
+Rufflet:
+  Abilities:
+  - Keen Eye
+  - Sheer Force
+  Hidden: Hustle
+Braviary:
+  Abilities:
+  - Keen Eye
+  - Sheer Force
+  Hidden: Defiant
+Vullaby:
+  Abilities:
+  - Big Pecks
+  - Overcoat
+  Hidden: Weak Armor
+Mandibuzz:
+  Abilities:
+  - Big Pecks
+  - Overcoat
+  Hidden: Weak Armor
+Heatmor:
+  Abilities:
+  - Gluttony
+  - Flash Fire
+  Hidden: White Smoke
+Durant:
+  Abilities:
+  - Swarm
+  - Hustle
+  Hidden: Truant
+Deino:
+  Abilities:
+  - Hustle
+Zweilous:
+  Abilities:
+  - Hustle
+Hydreigon:
+  Abilities:
+  - Levitate
+Larvesta:
+  Abilities:
+  - Flame Body
+  Hidden: Swarm
+Volcarona:
+  Abilities:
+  - Flame Body
+  Hidden: Swarm
+Cobalion:
+  Abilities:
+  - Justified
+Terrakion:
+  Abilities:
+  - Justified
+Virizion:
+  Abilities:
+  - Justified
+Tornadus:
+  Abilities:
+  - Prankster
+  - Regenerator (Therian Forme)
+  Hidden: Defiant (Incarnate Forme)
+Thundurus:
+  Abilities:
+  - Prankster
+  - Volt Absorb (Therian Forme)
+  Hidden: Defiant (Incarnate Forme)
+Reshiram:
+  Abilities:
+  - Turboblaze
+Zekrom:
+  Abilities:
+  - Teravolt
+Landorus:
+  Abilities:
+  - Sand Force
+  - Intimidate (Therian Forme)
+  Hidden: Sheer Force (Incarnate Forme)
+Kyurem:
+  Abilities:
+  - Pressure (Standard)
+  - Teravolt (Black Kyurem)
+  - Turboblaze (White Kyurem)
+Keldeo:
+  Abilities:
+  - Justified
+Meloetta:
+  Abilities:
+  - Serene Grace
+Genesect:
+  Abilities:
+  - Download
+Chespin:
+  Abilities:
+  - Overgrow
+  Hidden: Bulletproof
+Quilladin:
+  Abilities:
+  - Overgrow
+  Hidden: Bulletproof
+Chesnaught:
+  Abilities:
+  - Overgrow
+  Hidden: Bulletproof
+Fennekin:
+  Abilities:
+  - Blaze
+  Hidden: Magician
+Braixen:
+  Abilities:
+  - Blaze
+  Hidden: Magician
+Delphox:
+  Abilities:
+  - Blaze
+  Hidden: Magician
+Froakie:
+  Abilities:
+  - Torrent
+  Hidden: Protean
+Frogadier:
+  Abilities:
+  - Torrent
+  Hidden: Protean
+Greninja:
+  Abilities:
+  - Torrent
+  Hidden: Protean
+Bunnelby:
+  Abilities:
+  - Pickup
+  - Cheek Pouch
+  Hidden: Huge Power
+Diggersby:
+  Abilities:
+  - Pickup
+  - Cheek Pouch
+  Hidden: Huge Power
+Fletchling:
+  Abilities:
+  - Big Pecks
+  Hidden: Gale Wings
+Fletchinder:
+  Abilities:
+  - Flame Body
+  Hidden: Gale Wings
+Talonflame:
+  Abilities:
+  - Flame Body
+  Hidden: Gale Wings
+Scatterbug:
+  Abilities:
+  - Shield Dust
+  - Compoundeyes
+  Hidden: Friend Guard
+Spewpa:
+  Abilities:
+  - Shed Skin
+  Hidden: Friend Guard
+Vivillon:
+  Abilities:
+  - Shield Dust
+  - Compoundeyes
+  Hidden: Friend Guard
+Litleo:
+  Abilities:
+  - Rivalry
+  - Unnerve
+  Hidden: Moxie
+Pyroar:
+  Abilities:
+  - Rivalry
+  - Unnerve
+  Hidden: Moxie
+Flabébé:
+  Abilities:
+  - Flower Veil
+  Hidden: Symbiosis
+Floette:
+  Abilities:
+  - Flower Veil
+  Hidden: Symbiosis
+Florges:
+  Abilities:
+  - Flower Veil
+  Hidden: Symbiosis
+Skiddo:
+  Abilities:
+  - Sap Sipper
+  Hidden: Grass Pelt
+Gogoat:
+  Abilities:
+  - Sap Sipper
+  Hidden: Grass Pelt
+Pancham:
+  Abilities:
+  - Iron Fist
+  - Mold Breaker
+  Hidden: Scrappy
+Pangoro:
+  Abilities:
+  - Iron Fist
+  - Mold Breaker
+  Hidden: Scrappy
+Furfrou:
+  Abilities:
+  - Fur Coat
+Espurr:
+  Abilities:
+  - Keen Eye
+  - Infiltrator
+  Hidden: Own Tempo
+Meowstic:
+  Abilities:
+  - Keen Eye
+  - Infiltrator
+  Hidden: Prankster
+Honedge:
+  Abilities:
+  - No Guard
+Doublade:
+  Abilities:
+  - No Guard
+Aegislash:
+  Abilities:
+  - Stance Change
+Spritzee:
+  Abilities:
+  - Healer
+  Hidden: Aroma Veil
+Aromatisse:
+  Abilities:
+  - Healer
+  Hidden: Aroma Veil
+Swirlix:
+  Abilities:
+  - Sweet Veil
+  Hidden: Unburden
+Slurpuff:
+  Abilities:
+  - Sweet Veil
+  Hidden: Unburden
+Inkay:
+  Abilities:
+  - Contrary
+  - Suction Cups
+  Hidden: Infiltrator
+Malamar:
+  Abilities:
+  - Contrary
+  - Suction Cups
+  Hidden: Infiltrator
+Binacle:
+  Abilities:
+  - Tough Claws
+  - Sniper
+  Hidden: Pickpocket
+Barbaracle:
+  Abilities:
+  - Tough Claws
+  - Sniper
+  Hidden: Pickpocket
+Skrelp:
+  Abilities:
+  - Poison Point
+  - Poison Touch
+  Hidden: Adaptability
+Dragalge:
+  Abilities:
+  - Poison Point
+  - Poison Touch
+  Hidden: Adaptability
+Clauncher:
+  Abilities:
+  - Mega Launcher
+Clawitzer:
+  Abilities:
+  - Mega Launcher
+Helioptile:
+  Abilities:
+  - Dry Skin
+  - Sand Veil
+  Hidden: Solar Power
+Heliolisk:
+  Abilities:
+  - Dry Skin
+  - Sand Veil
+  Hidden: Solar Power
+Tyrunt:
+  Abilities:
+  - Strong Jaw
+Tyrantrum:
+  Abilities:
+  - Strong Jaw
+  Hidden: Rock Head
+Amaura:
+  Abilities:
+  - Refrigerate
+  Hidden: Snow Warning
+Aurorus:
+  Abilities:
+  - Refrigerate
+  Hidden: Snow Warning
+Sylveon:
+  Abilities:
+  - Cute Charm
+  Hidden: Pixilate
+Hawlucha:
+  Abilities:
+  - Limber
+  - Unburden
+  Hidden: Mold Breaker
+Dedenne:
+  Abilities:
+  - Cheek Pouch
+  - Pickup
+  Hidden: Plus
+Carbink:
+  Abilities:
+  - Clear Body
+  Hidden: Sturdy
+Goomy:
+  Abilities:
+  - Sap Sipper
+  - Hydration
+  Hidden: Gooey
+Sliggoo:
+  Abilities:
+  - Sap Sipper
+  - Hydration
+  Hidden: Gooey
+Goodra:
+  Abilities:
+  - Sap Sipper
+  - Hydration
+  Hidden: Gooey
+Klefki:
+  Abilities:
+  - Prankster
+  Hidden: Magician
+Phantump:
+  Abilities:
+  - Natural Cure
+  - Frisk
+  Hidden: Harvest
+Trevenant:
+  Abilities:
+  - Natural Cure
+  - Frisk
+  Hidden: Harvest
+Pumpkaboo:
+  Abilities:
+  - Pickup
+  - Frisk
+  Hidden: Insomnia
+Gourgeist:
+  Abilities:
+  - Pickup
+  - Frisk
+  Hidden: Insomnia
+Bergmite:
+  Abilities:
+  - Own Tempo
+  - Ice Body
+  Hidden: Sturdy
+Avalugg:
+  Abilities:
+  - Own Tempo
+  - Ice Body
+  Hidden: Sturdy
+Noibat:
+  Abilities:
+  - Frisk
+  - Infiltrator
+  Hidden: Telepathy
+Noivern:
+  Abilities:
+  - Frisk
+  - Infiltrator
+  Hidden: Telepathy
+Xerneas:
+  Abilities:
+  - Fairy Aura
+Yveltal:
+  Abilities:
+  - Dark Aura
+Zygarde:
+  Abilities:
+  - Aura Break

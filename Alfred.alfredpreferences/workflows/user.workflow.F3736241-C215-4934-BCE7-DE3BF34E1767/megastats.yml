@@ -1,0 +1,269 @@
+---
+Venusaur:
+  Mega:
+    HP: ██████ 80
+    Atk: ███████ 100
+    Def: █████████ 123
+    Sp. Atk: █████████ 122
+    Sp. Def: █████████ 120
+    Speed: ██████ 80
+    Total: '625'
+Charizard:
+  Mega:
+    HP: ██████ 78
+    Atk: ██████████ 130
+    Def: ████████ 111
+    Sp. Atk: ██████████ 130
+    Sp. Def: ██████ 85
+    Speed: ███████ 100
+    Total: '634'
+  Mega Y:
+    HP: ██████ 78
+    Atk: ████████ 104
+    Def: ██████ 78
+    Sp. Atk: ████████████ 159
+    Sp. Def: █████████ 115
+    Speed: ███████ 100
+    Total: '634'
+Blastoise:
+  Mega:
+    HP: ██████ 79
+    Atk: ████████ 103
+    Def: █████████ 120
+    Sp. Atk: ██████████ 135
+    Sp. Def: █████████ 115
+    Speed: ██████ 78
+    Total: '630'
+Alakazam:
+  Mega:
+    HP: ████ 55
+    Atk: ███ 50
+    Def: █████ 65
+    Sp. Atk: █████████████ 175
+    Sp. Def: ███████ 95
+    Speed: ███████████ 150
+    Total: '590'
+Gengar:
+  Mega:
+    HP: ████ 60
+    Atk: █████ 65
+    Def: ██████ 80
+    Sp. Atk: █████████████ 170
+    Sp. Def: ███████ 95
+    Speed: ██████████ 130
+    Total: '600'
+Kangaskhan:
+  Mega:
+    HP: ████████ 105
+    Atk: █████████ 125
+    Def: ███████ 100
+    Sp. Atk: ████ 60
+    Sp. Def: ███████ 100
+    Speed: ███████ 100
+    Total: '590'
+Pinsir:
+  Mega:
+    HP: █████ 65
+    Atk: ████████████ 155
+    Def: █████████ 120
+    Sp. Atk: █████ 65
+    Sp. Def: ███████ 90
+    Speed: ████████ 105
+    Total: '600'
+Gyarados:
+  Mega:
+    HP: ███████ 95
+    Atk: ████████████ 155
+    Def: ████████ 109
+    Sp. Atk: █████ 70
+    Sp. Def: ██████████ 130
+    Speed: ██████ 81
+    Total: '640'
+Aerodactyl:
+  Mega:
+    HP: ██████ 80
+    Atk: ██████████ 135
+    Def: ██████ 85
+    Sp. Atk: █████ 70
+    Sp. Def: ███████ 95
+    Speed: ███████████ 150
+    Total: '615'
+Mewtwo:
+  Mega:
+    HP: ████████ 106
+    Atk: ██████████████ 190
+    Def: ███████ 100
+    Sp. Atk: ████████████ 154
+    Sp. Def: ███████ 100
+    Speed: ██████████ 130
+    Total: '780'
+  Mega Y:
+    HP: ████████ 106
+    Atk: ███████████ 150
+    Def: █████ 70
+    Sp. Atk: ███████████████ 194
+    Sp. Def: █████████ 120
+    Speed: ██████████ 140
+    Total: '780'
+Ampharos:
+  Mega:
+    HP: ███████ 90
+    Atk: ███████ 95
+    Def: ████████ 105
+    Sp. Atk: ████████████ 165
+    Sp. Def: ████████ 110
+    Speed: ███ 45
+    Total: '610'
+Scizor:
+  Mega:
+    HP: █████ 70
+    Atk: ███████████ 150
+    Def: ██████████ 140
+    Sp. Atk: █████ 65
+    Sp. Def: ███████ 100
+    Speed: █████ 75
+    Total: '600'
+Heracross:
+  Mega:
+    HP: ██████ 80
+    Atk: ██████████████ 185
+    Def: █████████ 115
+    Sp. Atk: ███ 40
+    Sp. Def: ████████ 105
+    Speed: █████ 75
+    Total: '600'
+Houndoom:
+  Mega:
+    HP: █████ 75
+    Atk: ███████ 90
+    Def: ███████ 90
+    Sp. Atk: ██████████ 140
+    Sp. Def: ███████ 90
+    Speed: █████████ 115
+    Total: '600'
+Tyranitar:
+  Mega:
+    HP: ███████ 100
+    Atk: ████████████ 164
+    Def: ███████████ 150
+    Sp. Atk: ███████ 95
+    Sp. Def: █████████ 120
+    Speed: █████ 71
+    Total: '700'
+Blaziken:
+  Mega:
+    HP: ██████ 80
+    Atk: ████████████ 160
+    Def: ██████ 80
+    Sp. Atk: ██████████ 130
+    Sp. Def: ██████ 80
+    Speed: ███████ 100
+    Total: '630'
+Gardevoir:
+  Mega:
+    HP: █████ 68
+    Atk: ██████ 85
+    Def: █████ 65
+    Sp. Atk: ████████████ 165
+    Sp. Def: ██████████ 135
+    Speed: ███████ 100
+    Total: '618'
+Mawile:
+  Mega:
+    HP: ███ 50
+    Atk: ████████ 105
+    Def: █████████ 125
+    Sp. Atk: ████ 55
+    Sp. Def: ███████ 95
+    Speed: ███ 50
+    Total: '480'
+Aggron:
+  Mega:
+    HP: █████ 70
+    Atk: ██████████ 140
+    Def: ██████████████████ 230
+    Sp. Atk: ████ 60
+    Sp. Def: ██████ 80
+    Speed: ███ 50
+    Total: '630'
+Medicham:
+  Mega:
+    HP: ████ 60
+    Atk: ███████ 100
+    Def: ██████ 85
+    Sp. Atk: ██████ 80
+    Sp. Def: ██████ 85
+    Speed: ███████ 100
+    Total: '510'
+Manectric:
+  Mega:
+    HP: █████ 70
+    Atk: █████ 75
+    Def: ██████ 80
+    Sp. Atk: ██████████ 135
+    Sp. Def: ██████ 80
+    Speed: ██████████ 135
+    Total: '575'
+Banette:
+  Mega:
+    HP: █████ 64
+    Atk: ████████████ 165
+    Def: █████ 75
+    Sp. Atk: ███████ 93
+    Sp. Def: ██████ 83
+    Speed: █████ 75
+    Total: '555'
+Absol:
+  Mega:
+    HP: █████ 65
+    Atk: ███████████ 150
+    Def: ████ 60
+    Sp. Atk: █████████ 115
+    Sp. Def: ████ 60
+    Speed: █████████ 115
+    Total: '565'
+Latias:
+  Mega:
+    HP: ██████ 80
+    Atk: ███████ 100
+    Def: █████████ 120
+    Sp. Atk: ██████████ 140
+    Sp. Def: ███████████ 150
+    Speed: ████████ 110
+    Total: '700'
+Latios:
+  Mega:
+    HP: ██████ 80
+    Atk: ██████████ 130
+    Def: ███████ 100
+    Sp. Atk: ████████████ 160
+    Sp. Def: █████████ 120
+    Speed: ████████ 110
+    Total: '700'
+Garchomp:
+  Mega:
+    HP: ████████ 108
+    Atk: █████████████ 170
+    Def: █████████ 115
+    Sp. Atk: █████████ 120
+    Sp. Def: ███████ 95
+    Speed: ███████ 92
+    Total: '700'
+Lucario:
+  Mega:
+    HP: █████ 70
+    Atk: ███████████ 145
+    Def: ██████ 88
+    Sp. Atk: ██████████ 140
+    Sp. Def: █████ 70
+    Speed: ████████ 112
+    Total: '625'
+Abomasnow:
+  Mega:
+    HP: ███████ 90
+    Atk: ██████████ 132
+    Def: ████████ 105
+    Sp. Atk: ██████████ 132
+    Sp. Def: ████████ 105
+    Speed: ██ 30
+    Total: '594'

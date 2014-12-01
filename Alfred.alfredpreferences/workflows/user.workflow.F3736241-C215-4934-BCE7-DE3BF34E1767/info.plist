@@ -1,0 +1,848 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleid</key>
+	<string>fmanoeli.pokedex</string>
+	<key>connections</key>
+	<dict>
+		<key>24DD3924-E746-4518-9678-32BE3E5B5779</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>9274C9EC-1949-4B87-8D3B-FB92C1305640</string>
+				<key>modifiers</key>
+				<integer>262144</integer>
+				<key>modifiersubtext</key>
+				<string>Go to Serebii.net for more info</string>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>17CE0F80-DB91-464D-8210-B5096B93ECC3</string>
+				<key>modifiers</key>
+				<integer>8388608</integer>
+				<key>modifiersubtext</key>
+				<string>Go to Bulbapedia for more info</string>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>85C96953-5212-49E4-B014-126463893314</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>EF7A0519-BFAB-4E70-979E-162475816569</string>
+				<key>modifiers</key>
+				<integer>524288</integer>
+				<key>modifiersubtext</key>
+				<string>Go to Pokemondb for more info</string>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>B26037D4-1CCB-4651-9671-F96EC3F4C2AF</string>
+				<key>modifiers</key>
+				<integer>1048576</integer>
+				<key>modifiersubtext</key>
+				<string>See in Large Type</string>
+			</dict>
+		</array>
+		<key>2882CE00-52E0-4A3D-AB78-7B0D5E82CFAA</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>9274C9EC-1949-4B87-8D3B-FB92C1305640</string>
+				<key>modifiers</key>
+				<integer>262144</integer>
+				<key>modifiersubtext</key>
+				<string>Go to Serebii.net for more info</string>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>17CE0F80-DB91-464D-8210-B5096B93ECC3</string>
+				<key>modifiers</key>
+				<integer>8388608</integer>
+				<key>modifiersubtext</key>
+				<string>Go to Bulbapedia for more info</string>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>85C96953-5212-49E4-B014-126463893314</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>EF7A0519-BFAB-4E70-979E-162475816569</string>
+				<key>modifiers</key>
+				<integer>524288</integer>
+				<key>modifiersubtext</key>
+				<string>Go to Pokemondb for more info</string>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>B26037D4-1CCB-4651-9671-F96EC3F4C2AF</string>
+				<key>modifiers</key>
+				<integer>1048576</integer>
+				<key>modifiersubtext</key>
+				<string>See in Large Type</string>
+			</dict>
+		</array>
+		<key>5E2CC1A9-F5BD-4979-B816-403038C55674</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>9274C9EC-1949-4B87-8D3B-FB92C1305640</string>
+				<key>modifiers</key>
+				<integer>262144</integer>
+				<key>modifiersubtext</key>
+				<string>Go to Serebii.net for more info</string>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>17CE0F80-DB91-464D-8210-B5096B93ECC3</string>
+				<key>modifiers</key>
+				<integer>8388608</integer>
+				<key>modifiersubtext</key>
+				<string>Go to Bulbapedia for more info</string>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>85C96953-5212-49E4-B014-126463893314</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>EF7A0519-BFAB-4E70-979E-162475816569</string>
+				<key>modifiers</key>
+				<integer>524288</integer>
+				<key>modifiersubtext</key>
+				<string>Go to Pokemondb for more info</string>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>B26037D4-1CCB-4651-9671-F96EC3F4C2AF</string>
+				<key>modifiers</key>
+				<integer>1048576</integer>
+				<key>modifiersubtext</key>
+				<string>See in Large Type</string>
+			</dict>
+		</array>
+		<key>69D690A5-5B24-43E5-9278-6DBBF34C41B1</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>2006D39D-5ADC-423B-B9F6-61F92A81AE7A</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>B26037D4-1CCB-4651-9671-F96EC3F4C2AF</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>059AAD2F-6607-497B-B343-49EB2B06E7A4</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>D65915B5-7CFD-4D4E-860F-F72638CF0E8D</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>9274C9EC-1949-4B87-8D3B-FB92C1305640</string>
+				<key>modifiers</key>
+				<integer>262144</integer>
+				<key>modifiersubtext</key>
+				<string>Go to Serebii.net for more info</string>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>17CE0F80-DB91-464D-8210-B5096B93ECC3</string>
+				<key>modifiers</key>
+				<integer>8388608</integer>
+				<key>modifiersubtext</key>
+				<string>Go to Bulbapedia for more info</string>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>85C96953-5212-49E4-B014-126463893314</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>EF7A0519-BFAB-4E70-979E-162475816569</string>
+				<key>modifiers</key>
+				<integer>524288</integer>
+				<key>modifiersubtext</key>
+				<string>Go to Pokemondb for more info</string>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>B26037D4-1CCB-4651-9671-F96EC3F4C2AF</string>
+				<key>modifiers</key>
+				<integer>1048576</integer>
+				<key>modifiersubtext</key>
+				<string>See in Large Type</string>
+			</dict>
+		</array>
+		<key>E2A7EAF3-1256-42ED-9A53-3D2BC3B33DB2</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>9274C9EC-1949-4B87-8D3B-FB92C1305640</string>
+				<key>modifiers</key>
+				<integer>262144</integer>
+				<key>modifiersubtext</key>
+				<string>Go to Serebii.net for more info</string>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>17CE0F80-DB91-464D-8210-B5096B93ECC3</string>
+				<key>modifiers</key>
+				<integer>8388608</integer>
+				<key>modifiersubtext</key>
+				<string>Go to Bulbapedia for more info</string>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>85C96953-5212-49E4-B014-126463893314</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>EF7A0519-BFAB-4E70-979E-162475816569</string>
+				<key>modifiers</key>
+				<integer>524288</integer>
+				<key>modifiersubtext</key>
+				<string>Go to Pokemondb for more info</string>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>B26037D4-1CCB-4651-9671-F96EC3F4C2AF</string>
+				<key>modifiers</key>
+				<integer>1048576</integer>
+				<key>modifiersubtext</key>
+				<string>See in Large Type</string>
+			</dict>
+		</array>
+		<key>E6C052B1-207C-4E74-A695-1E3436CD7CF6</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>B26037D4-1CCB-4651-9671-F96EC3F4C2AF</string>
+				<key>modifiers</key>
+				<integer>1048576</integer>
+				<key>modifiersubtext</key>
+				<string>See in Large Type</string>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>75D217D0-4382-46F6-903B-E3E4A7E06D64</string>
+				<key>modifiers</key>
+				<integer>524288</integer>
+				<key>modifiersubtext</key>
+				<string>More Item Info</string>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>C37C2C26-4D72-4368-B78E-5C689EC7BAC8</string>
+				<key>modifiers</key>
+				<integer>262144</integer>
+				<key>modifiersubtext</key>
+				<string>More Pokémon Info</string>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>2FFCE90B-9F1E-4F1D-ACEF-0F5242A1C8C9</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+			</dict>
+		</array>
+	</dict>
+	<key>createdby</key>
+	<string>Felipe Manoeli (1.0 by Xac Stegner)</string>
+	<key>description</key>
+	<string>Look up Pokémon info, moves, abilities and items. (v 2.4)</string>
+	<key>disabled</key>
+	<false/>
+	<key>name</key>
+	<string>Pokédex</string>
+	<key>objects</key>
+	<array>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>escaping</key>
+				<integer>0</integer>
+				<key>script</key>
+				<string>/usr/bin/ruby ./serebii.rb "{query}"</string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>9274C9EC-1949-4B87-8D3B-FB92C1305640</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>escaping</key>
+				<integer>0</integer>
+				<key>keyword</key>
+				<string>dex</string>
+				<key>runningsubtext</key>
+				<string>Searching Pokémon</string>
+				<key>script</key>
+				<string>/usr/bin/ruby ./alfredex.rb "{query}"</string>
+				<key>subtext</key>
+				<string>Enter a Pokémon's name or number</string>
+				<key>title</key>
+				<string>Search Pokédex</string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>2882CE00-52E0-4A3D-AB78-7B0D5E82CFAA</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>escaping</key>
+				<integer>0</integer>
+				<key>script</key>
+				<string>/usr/bin/ruby ./bulbapedia.rb "{query}"</string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>17CE0F80-DB91-464D-8210-B5096B93ECC3</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>escaping</key>
+				<integer>0</integer>
+				<key>keyword</key>
+				<string>move</string>
+				<key>runningsubtext</key>
+				<string>Loading...</string>
+				<key>script</key>
+				<string>/usr/bin/ruby ./pokemoves.rb "{query}"</string>
+				<key>title</key>
+				<string>Search Pokémon Moves</string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>E2A7EAF3-1256-42ED-9A53-3D2BC3B33DB2</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>escaping</key>
+				<integer>32</integer>
+				<key>script</key>
+				<string>/usr/bin/ruby ./default.rb "{query}"</string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>85C96953-5212-49E4-B014-126463893314</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>escaping</key>
+				<integer>0</integer>
+				<key>keyword</key>
+				<string>ability</string>
+				<key>runningsubtext</key>
+				<string>Loading...</string>
+				<key>script</key>
+				<string>/usr/bin/ruby ./pokeabilities.rb "{query}"</string>
+				<key>title</key>
+				<string>Search Pokémon Abilities</string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>5E2CC1A9-F5BD-4979-B816-403038C55674</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>escaping</key>
+				<integer>0</integer>
+				<key>script</key>
+				<string>/usr/bin/ruby ./pokemondb.rb "{query}"</string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>EF7A0519-BFAB-4E70-979E-162475816569</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>escaping</key>
+				<integer>0</integer>
+				<key>keyword</key>
+				<string>item</string>
+				<key>runningsubtext</key>
+				<string>Loading...</string>
+				<key>script</key>
+				<string>/usr/bin/ruby ./pokeitems.rb "{query}"</string>
+				<key>title</key>
+				<string>Search Pokémon Items</string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>24DD3924-E746-4518-9678-32BE3E5B5779</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>escaping</key>
+				<integer>126</integer>
+				<key>script</key>
+				<string>/usr/bin/ruby ./largeType.rb "{query}"</string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>B26037D4-1CCB-4651-9671-F96EC3F4C2AF</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>alfred.workflow.output.largetype</string>
+			<key>uid</key>
+			<string>059AAD2F-6607-497B-B343-49EB2B06E7A4</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>escaping</key>
+				<integer>0</integer>
+				<key>keyword</key>
+				<string>location</string>
+				<key>runningsubtext</key>
+				<string>Loading...</string>
+				<key>script</key>
+				<string>/usr/bin/ruby ./location.rb "{query}"</string>
+				<key>subtext</key>
+				<string>Example: "location Route 22"</string>
+				<key>title</key>
+				<string>Search Locations' Pokémon</string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>D65915B5-7CFD-4D4E-860F-F72638CF0E8D</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>escaping</key>
+				<integer>126</integer>
+				<key>script</key>
+				<string>/usr/bin/ruby ./open-in-alfred.rb "{query}@item"</string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>75D217D0-4382-46F6-903B-E3E4A7E06D64</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>escaping</key>
+				<integer>0</integer>
+				<key>keyword</key>
+				<string>evo</string>
+				<key>runningsubtext</key>
+				<string>Loading...</string>
+				<key>script</key>
+				<string>/usr/bin/ruby ./searchEvolutions.rb "{query}"</string>
+				<key>title</key>
+				<string>Search Pokémon Evolution Conditions</string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>E6C052B1-207C-4E74-A695-1E3436CD7CF6</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>escaping</key>
+				<integer>126</integer>
+				<key>script</key>
+				<string>/usr/bin/ruby ./open-in-alfred.rb "{query}"</string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>C37C2C26-4D72-4368-B78E-5C689EC7BAC8</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>escaping</key>
+				<integer>126</integer>
+				<key>script</key>
+				<string>/usr/bin/ruby ./open-in-alfred.rb "{query}@item"</string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>2FFCE90B-9F1E-4F1D-ACEF-0F5242A1C8C9</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>escaping</key>
+				<integer>127</integer>
+				<key>script</key>
+				<string>/usr/bin/ruby ./setdefault.rb {query}</string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>2006D39D-5ADC-423B-B9F6-61F92A81AE7A</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>escaping</key>
+				<integer>127</integer>
+				<key>keyword</key>
+				<string>set dex</string>
+				<key>runningsubtext</key>
+				<string>Loading...</string>
+				<key>script</key>
+				<string>/usr/bin/ruby ./default-options.rb</string>
+				<key>subtext</key>
+				<string>Choose Serebii, PokémonDB or Bulbapedia</string>
+				<key>title</key>
+				<string>Set Default Pokémon Info Website</string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>69D690A5-5B24-43E5-9278-6DBBF34C41B1</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
+	</array>
+	<key>readme</key>
+	<string>Features:
+ 
+- Works offline.
+ 
+- Pokémon Info: 
++ Types and Forms
+Example: "dex bulbasaur"
+Pro tip: Press Enter on the Pokémon type to use Super Effective! workflow and check the effectiveness of your attacks.
+ 
++ Moves learnt by Level up
+Example: "dex bulbasaur lvl"
+Filter by Move type: "dex bulbasaur lvl grass"
+ 
++ Moves learnt by TM
+Example: "dex bulbasaur tm"
+Filter by Move type: "dex bulbasaur tm grass"
+ 
++ Moves learnt by HM
+Example: "dex bulbasaur hm"
+Filter by Move type: "dex bulbasaur hm normal"
+
++ Egg Moves
+Example: "dex bulbasaur egg"
+Filter by Move type: "dex bulbasaur egg grass"
+ 
++ How to evolve
+Example: "dex bulbasaur evo"
+
++ Location
+Example: "dex pidgey location"
+Filter for more info: "dex pidgey location route"
+
++ Base Stats:
+Example: "dex bulbasaur stats"
+
++ Mega Stats:
+Example: 
+	"dex mewtwo stats mega"
+	"dex mewtwo stats mega y"
+
++ Forms Stats:
+Example:
+	"dex deoxys stats attack"
+	"dex aegislash stats blade"
+
++ Abilities:
+Example: "dex bulbasaur ability"
+
++ Name in Other Languages:
+Example: "dex bulbasaur langs"
+
++ Shiny:
+Example: "dex bulbasaur shiny"
+ 
+- Moves Info:
++ Type, Category, Description, Power, Accuracy, PP, Probability
+Example: "move psychic" or "move tm10" or "move hm02"
+
++ Filter Moves learnt by Level Up, Machine, Breeding or Tutor.
+Example:
+"move false swipe tm" lists all Pokémon which learns False Swipe by Machine.
+"move false swipe lvl" lists all Pokémon which learns False Swipe by Level Up.
+"move false swipe egg" lists all Pokémon which learns False Swipe by Breeding.
+"move false swipe tutor" lists all Pokémon which learns False Swipe by Tutor.
+
+- Items Info:
++ Description
+Example: "item plate"
+ 
+- Abilities Info:
++ Description
+Example: "ability pressure"
+
++ Abilities by Pokémon:
+Example: "ability pressure pkm" lists all Pokémon with Pressure.
+Filter by Pokémon: "ability pressure pkm mewtwo"
+
+- Conditions to Evolve:
+Example: 
+	"evo leaf stone" lists all Pokémon that evolves using the Leaf Stone.
+	"evo trade" lists all Pokémon that evolves when traded with someone.
+Hold CTRL to see more Pokémon Info
+Hold Option to see more Item Info
+
+- Location's Pokémon list:
+Example:
+	"location route 2" lists all Pokémon you can find in Route 2, plus method and rarity.
+
+- Serebii, Pokemondb and Bulbapedia easy access:
+Open Serebii, Pokemondb or Bulbapedia for more info about Pokémon, Moves, Items and Abilities.
+	Hold Option key: Pokemondb
+	Hold CTRL key: Serebii
+	Hold Function key: Bulbapedia
+Protip: You can set your favourite website as default using "set dex" keyword.
+
+- Use Large Type to read full information or description:
+	 If the Move description or Pokémon description isn't being fully displayed, hold CMD and press Enter to see in Large Type.
+
+- Use /help to check keyword options for each feature.
+Example: “dex /help”
+				 “move /help”
+
+You can look up Pokémon by name (English, Japanese, German, French or Korean) or by national number.
+ 
+Any feedback is welcome. Please, contact me if you find some mistake.
+ 
+@MaximiliumM</string>
+	<key>uidata</key>
+	<dict>
+		<key>059AAD2F-6607-497B-B343-49EB2B06E7A4</key>
+		<dict>
+			<key>ypos</key>
+			<real>500</real>
+		</dict>
+		<key>17CE0F80-DB91-464D-8210-B5096B93ECC3</key>
+		<dict>
+			<key>ypos</key>
+			<real>130</real>
+		</dict>
+		<key>2006D39D-5ADC-423B-B9F6-61F92A81AE7A</key>
+		<dict>
+			<key>ypos</key>
+			<real>970</real>
+		</dict>
+		<key>24DD3924-E746-4518-9678-32BE3E5B5779</key>
+		<dict>
+			<key>ypos</key>
+			<real>430</real>
+		</dict>
+		<key>2882CE00-52E0-4A3D-AB78-7B0D5E82CFAA</key>
+		<dict>
+			<key>ypos</key>
+			<real>70</real>
+		</dict>
+		<key>2FFCE90B-9F1E-4F1D-ACEF-0F5242A1C8C9</key>
+		<dict>
+			<key>ypos</key>
+			<real>850</real>
+		</dict>
+		<key>5E2CC1A9-F5BD-4979-B816-403038C55674</key>
+		<dict>
+			<key>ypos</key>
+			<real>310</real>
+		</dict>
+		<key>69D690A5-5B24-43E5-9278-6DBBF34C41B1</key>
+		<dict>
+			<key>ypos</key>
+			<real>970</real>
+		</dict>
+		<key>75D217D0-4382-46F6-903B-E3E4A7E06D64</key>
+		<dict>
+			<key>ypos</key>
+			<real>630</real>
+		</dict>
+		<key>85C96953-5212-49E4-B014-126463893314</key>
+		<dict>
+			<key>ypos</key>
+			<real>250</real>
+		</dict>
+		<key>9274C9EC-1949-4B87-8D3B-FB92C1305640</key>
+		<dict>
+			<key>ypos</key>
+			<real>10</real>
+		</dict>
+		<key>B26037D4-1CCB-4651-9671-F96EC3F4C2AF</key>
+		<dict>
+			<key>ypos</key>
+			<real>500</real>
+		</dict>
+		<key>C37C2C26-4D72-4368-B78E-5C689EC7BAC8</key>
+		<dict>
+			<key>ypos</key>
+			<real>740</real>
+		</dict>
+		<key>D65915B5-7CFD-4D4E-860F-F72638CF0E8D</key>
+		<dict>
+			<key>ypos</key>
+			<real>550</real>
+		</dict>
+		<key>E2A7EAF3-1256-42ED-9A53-3D2BC3B33DB2</key>
+		<dict>
+			<key>ypos</key>
+			<real>190</real>
+		</dict>
+		<key>E6C052B1-207C-4E74-A695-1E3436CD7CF6</key>
+		<dict>
+			<key>ypos</key>
+			<real>690</real>
+		</dict>
+		<key>EF7A0519-BFAB-4E70-979E-162475816569</key>
+		<dict>
+			<key>ypos</key>
+			<real>370</real>
+		</dict>
+	</dict>
+	<key>webaddress</key>
+	<string></string>
+</dict>
+</plist>
